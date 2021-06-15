@@ -1,0 +1,1794 @@
+no,symbol,Company_Name,mcap_lakhs
+1,RELIANCE,Reliance Industries Limited,126985361
+2,TCS,Tata Consultancy Services Limited,117550304
+3,HDFCBANK,HDFC Bank Limited,82341586
+4,INFY,Infosys Limited,58277398
+5,HINDUNILVR,Hindustan Unilever Limited,57129664
+6,HDFC,Housing Development Finance Corporation Limited,44996047
+7,ICICIBANK,ICICI Bank Limited,40254860
+8,KOTAKBANK,Kotak Mahindra Bank Limited,34737830
+9,SBIN,State Bank of India,32512360
+10,BAJFINANCE,Bajaj Finance Limited,31032344
+11,BHARTIARTL,Bharti Airtel Limited,28410257
+12,ITC,ITC Limited,26892695
+13,HCLTECH,HCL Technologies Limited,26665830
+14,ASIANPAINT,Asian Paints Limited,24338685
+15,WIPRO,Wipro Limited,22691736
+16,AXISBANK,Axis Bank Limited,21365557
+17,MARUTI,Maruti Suzuki India Limited,20720275
+18,LT,Larsen & Toubro Limited,19927530
+19,ULTRACEMCO,UltraTech Cement Limited,19448517
+20,DMART,Avenue Supermarts Limited,18520202
+21,ADANIGREEN,Adani Green Energy Limited,17280012
+22,BAJAJFINSV,Bajaj Finserv Limited,15386363
+23,SUNPHARMA,Sun Pharmaceutical Industries Limited,14343224
+24,ADANIPORTS,Adani Ports and Special Economic Zone Limited,14271024
+25,HDFCLIFE,HDFC Life Insurance Company Limited,14069812
+26,TITAN,Titan Company Limited,13832152
+27,ONGC,Oil & Natural Gas Corporation Limited,12850755
+28,HINDZINC,Hindustan Zinc Limited,11530896
+29,ADANIENT,Adani Enterprises Limited,11340692
+30,JSWSTEEL,JSW Steel Limited,11323469
+31,POWERGRID,Power Grid Corporation of India Limited,11281923
+32,SHREECEM,SHREE CEMENT LIMITED,10631337
+33,BAJAJ-AUTO,Bajaj Auto Limited,10621506
+34,ATGL,Adani Total Gas Limited,10571924
+35,NTPC,NTPC Limited,10331798
+36,TATAMOTORS,Tata Motors Limited,10020689
+37,ADANITRANS,Adani Transmission Limited,9990675
+38,M&M,Mahindra & Mahindra Limited,9886489
+39,DIVISLAB,Divi's Laboratories Limited,9617396
+40,TECHM,Tech Mahindra Limited,9599814
+41,DABUR,Dabur India Limited,9552934
+42,GRASIM,Grasim Industries Limited,9543908
+43,BPCL,Bharat Petroleum Corporation Limited,9283317
+44,PIDILITIND,Pidilite Industries Limited,9194527
+45,TATASTEEL,Tata Steel Limited,9145405
+46,SBILIFE,SBI Life Insurance Company Limited,8809114
+47,BRITANNIA,Britannia Industries Limited,8731596
+48,SBICARD,SBI Cards and Payment Services Limited,8730428
+49,IOC,Indian Oil Corporation Limited,8646905
+50,VEDL,Vedanta Limited,8503087
+51,COALINDIA,Coal India Limited,8033116
+52,DRREDDY,Dr. Reddy's Laboratories Limited,7510125
+53,GODREJCP,Godrej Consumer Products Limited,7460571
+54,BERGEPAINT,Berger Paints (I) Limited,7430407
+55,INDUSINDBK,IndusInd Bank Limited,7379380
+56,HINDALCO,Hindalco Industries Limited,7343287
+57,EICHERMOT,Eicher Motors Limited,7117531
+58,DLF,DLF Limited,7105392
+59,LTI,Larsen & Toubro Infotech Limited,7082721
+60,INDUSTOWER,Indus Towers Limited,6602596
+61,HAVELLS,Havells India Limited,6575641
+62,CIPLA,Cipla Limited,6573459
+63,SIEMENS,Siemens Limited,6566858
+64,ICICIGI,ICICI Lombard General Insurance Company Limited,6515142
+65,ICICIPRULI,ICICI Prudential Life Insurance Company Limited,6398660
+66,MOTHERSUMI,Motherson Sumi Systems Limited,6361659
+67,INDIGO,InterGlobe Aviation Limited,6280780
+68,HDFCAMC,HDFC Asset Management Company Limited,6215944
+69,AMBUJACEM,Ambuja Cements Limited,6132665
+70,GAIL,GAIL (India) Limited,6111242
+71,TATACONSUM,TATA CONSUMER PRODUCTS LIMITED,5887794
+72,HEROMOTOCO,Hero MotoCorp Limited,5820796
+73,NAUKRI,Info Edge (India) Limited,5512669
+74,BANDHANBNK,Bandhan Bank Limited,5458267
+75,MARICO,Marico Limited,5311291
+76,AUROPHARMA,Aurobindo Pharma Limited,5163877
+77,BIOCON,Biocon Limited,4906800
+78,UPL,UPL Limited,4904026
+79,MUTHOOTFIN,Muthoot Finance Limited,4837940
+80,LUPIN,Lupin Limited,4629278
+81,CHOLAFIN,Cholamandalam Investment and Finance Company Limited,4582319
+82,CADILAHC,Cadila Healthcare Limited,4513681
+83,TORNTPHARM,Torrent Pharmaceuticals Limited,4306803
+84,COLPAL,Colgate Palmolive (India) Limited,4241208
+85,HONAUT,Honeywell Automation India Limited,4197942
+86,APOLLOHOSP,Apollo Hospitals Enterprise Limited,4173565
+87,BOSCHLTD,Bosch Limited,4155182
+88,IDBI,IDBI Bank Limited,4145051
+89,PGHH,Procter & Gamble Hygiene and Health Care Limited,4115680
+90,GLAND,Gland Pharma Limited,4052037
+91,MCDOWELL-N,United Spirits Limited,4042654
+92,NMDC,NMDC Limited,3966575
+93,PEL,Piramal Enterprises Limited,3954026
+94,GODREJPROP,Godrej Properties Limited,3909964
+95,YESBANK,Yes Bank Limited,3908565
+96,JUBLFOOD,Jubilant Foodworks Limited,3841553
+97,PNB,Punjab National Bank,3840071
+98,AUBANK,AU Small Finance Bank Limited,3831997
+99,BANKBARODA,Bank of Baroda,3831979
+100,GUJGASLTD,Gujarat Gas Limited,3782360
+101,BAJAJHLDNG,Bajaj Holdings & Investment Limited,3664951
+102,CONCOR,Container Corporation of India Limited,3643580
+103,SRTRANSFIN,Shriram Transport Finance Company Limited,3599294
+104,IGL,Indraprastha Gas Limited,3586454
+105,ACC,ACC Limited,3574061
+106,JINDALSTEL,Jindal Steel & Power Limited,3504775
+107,GICRE,General Insurance Corporation of India,3498274
+108,MRF,MRF Limited,3488741
+109,HINDPETRO,Hindustan Petroleum Corporation Limited,3443440
+110,MINDTREE,MindTree Limited,3432595
+111,3MINDIA,3M India Limited,3428710
+112,PIIND,PI Industries Limited,3425917
+113,PAGEIND,Page Industries Limited,3381570
+114,PETRONET,Petronet LNG Limited,3369750
+115,ASHOKLEY,Ashok Leyland Limited,3331823
+116,HAL,Hindustan Aeronautics Limited,3326988
+117,MPHASIS,MphasiS Limited,3322802
+118,VOLTAS,Voltas Limited,3315300
+119,ALKEM,Alkem Laboratories Limited,3311711
+120,TATAPOWER,Tata Power Company Limited,3299188
+121,UBL,United Breweries Limited,3282458
+122,ADANIPOWER,Adani Power Limited,3280327
+123,BALKRISIND,Balkrishna Industries Limited,3264161
+124,SAIL,Steel Authority of India Limited,3254854
+125,ASTRAL,Astral Poly Technik Limited,3248377
+126,KANSAINER,Kansai Nerolac Paints Limited,3239177
+127,SRF,SRF Limited,3205640
+128,IDFCFIRSTB,IDFC First Bank Limited,3161448
+129,BEL,Bharat Electronics Limited,3048178
+130,TATACOMM,Tata Communications Limited,3028980
+131,PFC,Power Finance Corporation Limited,3003093
+132,IRFC,Indian Railway Finance Corporation Limited,2992688
+133,ABB,ABB India Limited,2988014
+134,DALBHARAT,Dalmia Bharat Limited,2968125
+135,MFSL,Max Financial Services Limited,2965879
+136,VBL,Varun Beverages Limited,2895404
+137,ABCAPITAL,Aditya Birla Capital Limited,2881232
+138,SUNDARMFIN,Sundaram Finance Limited,2855869
+139,WHIRLPOOL,Whirlpool of India Limited,2824928
+140,IRCTC,Indian Railway Catering And Tourism Corporation Limited,2811200
+141,LTTS,L&T Technology Services Limited,2787736
+142,TVSMOTOR,TVS Motor Company Limited,2779497
+143,BHARATFORG,Bharat Forge Limited,2774675
+144,OFSS,Oracle Financial Services Software Limited,2752962
+145,TRENT,Trent Limited,2669889
+146,IDEA,Vodafone Idea Limited,2658024
+147,IOB,Indian Overseas Bank,2629918
+148,SUPREMEIND,Supreme Industries Limited,2594778
+149,RECLTD,REC Limited,2590105
+150,CUMMINSIND,Cummins India Limited,2549270
+151,NIACL,The New India Assurance Company Limited,2543688
+152,CANBK,Canara Bank,2506336
+153,CROMPTON,Crompton Greaves Consumer Electricals Limited,2463271
+154,M&MFIN,Mahindra & Mahindra Financial Services Limited,2458087
+155,NHPC,NHPC Limited,2456011
+156,GLAXO,GlaxoSmithKline Pharmaceuticals Limited,2440717
+157,IPCALAB,IPCA Laboratories Limited,2414947
+158,L&TFH,L&T Finance Holdings Limited,2366964
+159,RAMCOCEM,The Ramco Cements Limited,2364915
+160,INDIAMART,Indiamart Intermesh Limited,2349530
+161,TIINDIA,Tube Investments of India Limited,2300980
+162,AARTIIND,Aarti Industries Limited,2295452
+163,COROMANDEL,Coromandel International Limited,2272365
+164,DEEPAKNTR,Deepak Nitrite Limited,2259351
+165,LALPATHLAB,Dr. Lal Path Labs Ltd.,2256187
+166,JKCEMENT,JK Cement Limited,2238654
+167,BANKINDIA,Bank of India,2223392
+168,UNIONBANK,Union Bank of India,2181531
+169,RELAXO,Relaxo Footwears Limited,2177347
+170,SYNGENE,Syngene International Limited,2173800
+171,LICHSGFIN,LIC Housing Finance Limited,2160967
+172,EMAMILTD,Emami Limited,2160337
+173,DIXON,Dixon Technologies (India) Limited,2150755
+174,ATUL,Atul Limited,2095666
+175,OBEROIRLTY,Oberoi Realty Limited,2091258
+176,NAM-INDIA,Nippon Life India Asset Management Limited,2081577
+177,PFIZER,Pfizer Limited,2070039
+178,POLYCAB,Polycab India Limited,2057080
+179,ENDURANCE,Endurance Technologies Limited,2048262
+180,TORNTPOWER,Torrent Power Limited,2036854
+181,MAXHEALTH,Max Healthcare Institute Limited,1987432
+182,ZEEL,Zee Entertainment Enterprises Limited,1951745
+183,LAURUSLABS,Laurus Labs Limited,1942501
+184,AIAENG,AIA Engineering Limited,1936114
+185,GILLETTE,Gillette India Limited,1922544
+186,TATACHEM,Tata Chemicals Limited,1915258
+187,AAVAS,Aavas Financiers Limited,1900477
+188,RUCHI,Ruchi Soya Industries Limited,1899299
+189,APLLTD,Alembic Pharmaceuticals Limited,1896736
+190,SUNTV,Sun TV Network Limited,1853380
+191,GODREJIND,Godrej Industries Limited,1836586
+192,SANOFI,Sanofi India Limited,1815861
+193,BATAINDIA,Bata India Limited,1807354
+194,COFORGE,Coforge Limited,1773365
+195,APLAPOLLO,APL Apollo Tubes Limited,1749264
+196,ESCORTS,Escorts Limited,1736400
+197,ABFRL,Aditya Birla Fashion and Retail Limited,1705838
+198,SCHAEFFLER,Schaeffler India Limited,1701225
+199,BHEL,Bharat Heavy Electricals Limited,1697506
+200,SUNDRMFAST,Sundram Fasteners Limited,1681973
+201,TATAELXSI,Tata Elxsi Limited,1677042
+202,THERMAX,Thermax Limited,1600924
+203,HATSUN,Hatsun Agro Product Limited,1562511
+204,EXIDEIND,Exide Industries Limited,1560600
+205,AJANTPHARM,Ajanta Pharma Limited,1550563
+206,GSPL,Gujarat State Petronet Limited,1542272
+207,LINDEINDIA,Linde India Limited,1534690
+208,FEDERALBNK,The Federal Bank  Limited,1513737
+209,NATCOPHARM,Natco Pharma Limited,1505290
+210,FORTIS,Fortis Healthcare Limited,1503499
+211,KAJARIACER,Kajaria Ceramics Limited,1474522
+212,MINDAIND,Minda Industries Limited,1474126
+213,PERSISTENT,Persistent Systems Limited,1468927
+214,GMRINFRA,GMR Infrastructure Limited,1466735
+215,AMARAJABAT,Amara Raja Batteries Limited,1458397
+216,SUMICHEM,Sumitomo Chemical India Limited,1451017
+217,JSWENERGY,JSW Energy Limited,1443188
+218,VINATIORGA,Vinati Organics Limited,1438897
+219,APOLLOTYRE,Apollo Tyres Limited,1420721
+220,RAJESHEXPO,Rajesh Exports Limited,1413705
+221,AFFLE,Affle (India) Limited,1391541
+222,MAHABANK,Bank of Maharashtra,1364513
+223,NAVINFLUOR,Navin Fluorine International Limited,1363310
+224,PHOENIXLTD,The Phoenix Mills Limited,1341642
+225,CRISIL,CRISIL Limited,1336611
+226,OIL,Oil India Limited,1331650
+227,BLUEDART,Blue Dart Express Limited,1322678
+228,INDHOTEL,The Indian Hotels Company Limited,1315932
+229,GLENMARK,Glenmark Pharmaceuticals Limited,1311235
+230,INDIANB,Indian Bank,1311195
+231,SUVENPHAR,Suven Pharmaceuticals Limited,1264679
+232,MANAPPURAM,Manappuram Finance Limited,1262776
+233,ZYDUSWELL,Zydus Wellness Limited,1254540
+234,VAIBHAVGBL,Vaibhav Global Limited,1250083
+235,WABCOINDIA,WABCO India Limited,1249973
+236,RBLBANK,RBL Bank Limited,1241167
+237,CASTROLIND,Castrol India Limited,1239370
+238,ISEC,ICICI Securities Limited,1233467
+239,PRESTIGE,Prestige Estates Projects Limited,1225033
+240,ALKYLAMINE,Alkyl Amines Chemicals Limited,1162851
+241,SOLARINDS,Solar Industries India Limited,1160671
+242,MGL,Mahanagar Gas Limited,1154663
+243,CUB,City Union Bank Limited,1152193
+244,METROPOLIS,Metropolis Healthcare Limited,1145630
+245,INDIGOPNTS,Indigo Paints Limited,1139682
+246,CHOLAHLDNG,Cholamandalam Financial Holdings Limited,1124836
+247,BAJAJELEC,Bajaj Electricals Limited,1118565
+248,AMBER,Amber Enterprises India Limited,1117234
+249,SKFINDIA,SKF India Limited,1112058
+250,TANLA,Tanla Platforms Limited,1106793
+251,HINDCOPPER,Hindustan Copper Limited,1106561
+252,UCOBANK,UCO Bank,1091017
+253,IIFLWAM,Iifl Wealth Management Limited,1089219
+254,JUBLPHARMA,Jubilant Pharmova Limited,1084864
+255,VGUARD,V-Guard Industries Limited,1083812
+256,ITI,ITI Limited,1073085
+257,IIFL,IIFL Finance Limited,1067762
+258,KEC,KEC International Limited,1056248
+259,GRINDWELL,Grindwell Norton Limited,1054276
+260,AEGISCHEM,Aegis Logistics Limited,1048262
+261,AKZOINDIA,Akzo Nobel India Limited,1045628
+262,CREDITACC,CREDITACCESS GRAMEEN LIMITED,1043369
+263,QUESS,Quess Corp Limited,1031980
+264,PGHL,Procter & Gamble Health Limited,1029519
+265,SJVN,SJVN Limited,1023712
+266,NATIONALUM,National Aluminium Company Limited,1008366
+267,GODREJAGRO,Godrej Agrovet Limited,1006073
+268,TTKPRESTIG,TTK Prestige Limited,1004938
+269,ALOKINDS,Alok Industries Limited,1000496
+270,GRAPHITE,Graphite India Limited,1000323
+271,IEX,Indian Energy Exchange Limited,996924
+272,INTELLECT,Intellect Design Arena Limited,983332
+273,ORCHPHARMA,Orchid Pharma Limited,982675
+274,TIMKEN,Timken India Limited,975211
+275,JBCHEPHARM,JB Chemicals & Pharmaceuticals Limited,970238
+276,CARBORUNIV,Carborundum Universal Limited,965580
+277,SFL,Sheela Foam Limited,964461
+278,CENTRALBK,Central Bank of India,957717
+279,CHAMBLFERT,Chambal Fertilizers & Chemicals Limited,953324
+280,MOTILALOFS,Motilal Oswal Financial Services Limited,915929
+281,IBULHSGFIN,Indiabulls Housing Finance Limited,908516
+282,GALAXYSURF,Galaxy Surfactants Limited,902944
+283,SHRIRAMCIT,Shriram City Union Finance Limited,900167
+284,BLUESTARCO,Blue Star Limited,899764
+285,BASF,BASF India Limited,895905
+286,CGPOWER,CG Power and Industrial Solutions Limited,895121
+287,RATNAMANI,Ratnamani Metals & Tubes Limited,888673
+288,DHANI,Dhani Services Limited,886080
+289,SYMPHONY,Symphony Limited,884921
+290,HUDCO,Housing & Urban Development Corporation Limited,877833
+291,KIOCL,KIOCL Limited,871515
+292,NBCC,NBCC (India) Limited,842400
+293,NH,Narayana Hrudayalaya Ltd.,829398
+294,ERIS,Eris Lifesciences Limited,821473
+295,CANFINHOME,Can Fin Homes Limited,817233
+296,ROUTE,ROUTE MOBILE LIMITED,813646
+297,WELSPUNIND,Welspun India Limited,812320
+298,JMFINANCIL,JM Financial Limited,805247
+299,DBL,Dilip Buildcon Limited,793265
+300,HAPPSTMNDS,Happiest Minds Technologies Limited,793137
+301,FSL,Firstsource Solutions Limited,792747
+302,FINPIPE,Finolex Industries Limited,789247
+303,POLYMED,Poly Medicure Limited,788474
+304,CESC,CESC Limited,786792
+305,DCMSHRIRAM,DCM Shriram Limited,781505
+306,BBTC,Bombay Burmah Trading Corporation Limited,774747
+307,STLTECH,Sterlite Technologies Limited,770252
+308,STAR,Strides Pharma Science Limited,757366
+309,IDFC,IDFC Limited,755876
+310,ASAHIINDIA,Asahi India Glass Limited,752971
+311,ASTRAZEN,AstraZeneca Pharma India Limited,752325
+312,GRANULES,Granules India Limited,751569
+313,RADICO,Radico Khaitan Limited,748049
+314,VTL,Vardhman Textiles Limited,746421
+315,EPL,EPL Limited,745501
+316,PVR,PVR Limited,745016
+317,REDINGTON,Redington (India) Limited,742574
+318,UTIAMC,UTI Asset Management Company Limited,739170
+319,KPRMILL,K.P.R. Mill Limited,733824
+320,BIRLACORPN,Birla Corporation Limited,731435
+321,LAXMIMACH,Lakshmi Machine Works Limited,725515
+322,JCHAC,Johnson Controls - Hitachi Air Conditioning India Limited,721265
+323,TRIDENT,Trident Limited,715982
+324,CYIENT,Cyient Limited,712388
+325,CENTURYPLY,Century Plyboards (India) Limited,707066
+326,BSOFT,BIRLASOFT LIMITED,701672
+327,KALYANKJIL,Kalyan Jewellers India Limited,701466
+328,FINEORG,Fine Organic Industries Limited,700228
+329,NLCINDIA,NLC India Limited,698865
+330,ASTERDM,Aster DM Healthcare Limited,686581
+331,EQUITASBNK,Equitas Small Finance Bank Limited,686282
+332,CDSL,Central Depository Services (India) Limited,685572
+333,MRPL,Mangalore Refinery and Petrochemicals Limited,680885
+334,CGCL,Capri Global Capital Limited,665296
+335,PNCINFRA,PNC Infratech Limited,661615
+336,ORIENTELEC,Orient Electric Limited,660852
+337,PRSMJOHNSN,Prism Johnson Limited,659649
+338,AARTIDRUGS,Aarti Drugs Limited,647088
+339,TEAMLEASE,Teamlease Services Limited,644830
+340,MMTC,MMTC Limited,635250
+341,FLUOROCHEM,Gujarat Fluorochemicals Limited,631802
+342,INFIBEAM,Infibeam Avenues Limited,631585
+343,PNBHOUSING,PNB Housing Finance Limited,630837
+344,CEATLTD,CEAT Limited,629626
+345,GMMPFAUDLR,GMM Pfaudler Limited,629459
+346,SUNCLAYLTD,Sundaram Clayton Limited,623411
+347,ZENSARTECH,Zensar Technologies Limited,617876
+348,MAHINDCIE,Mahindra CIE Automotive Limited,611189
+349,BDL,Bharat Dynamics Limited,609502
+350,RVNL,Rail Vikas Nigam Limited,606741
+351,ELGIEQUIP,Elgi Equipments Limited,604504
+352,KNRCON,KNR Constructions Limited,600155
+353,SEQUENT,Sequent Scientific Limited,598326
+354,VAKRANGEE,Vakrangee Limited,593797
+355,EDELWEISS,Edelweiss Financial Services Limited,592360
+356,BRIGADE,Brigade Enterprises Limited,586024
+357,FINCABLES,Finolex Cables Limited,582622
+358,EIHOTEL,EIH Limited,581276
+359,POWERINDIA,ABB Power Products and Systems India Limited,579336
+360,RITES,RITES Limited,578647
+361,SIS,SIS LIMITED,577514
+362,TATASTLBSL,Tata Steel Bsl Limited,570229
+363,BALAMINES,Balaji Amines Limited,570031
+364,HEG,HEG Limited,565058
+365,AVANTIFEED,Avanti Feeds Limited,564670
+366,EIDPARRY,EID Parry India Limited,563803
+367,KALPATPOWR,Kalpataru Power Transmission Limited,561388
+368,VMART,V-Mart Retail Limited,548915
+369,ROSSARI,Rossari Biotech Limited,537755
+370,SONATSOFTW,Sonata Software Limited,535471
+371,JUSTDIAL,Just Dial Limited,533924
+372,HEIDELBERG,HeidelbergCement India Limited,529368
+373,GARFIBRES,Garware Technical Fibres Limited,529299
+374,UJJIVANSFB,Ujjivan Small Finance Bank Limited,527134
+375,TATAINVEST,Tata Investment Corporation Limited,523914
+376,VSTIND,VST Industries Limited,523342
+377,BEML,BEML Limited,522951
+378,CENTURYTEX,Century Textiles & Industries Limited,519441
+379,INDIACEM,The India Cements Limited,518613
+380,SCI,Shipping Corporation Of India Limited,515640
+381,JKLAKSHMI,JK Lakshmi Cement Limited,509453
+382,CERA,Cera Sanitaryware Limited,508179
+383,JYOTHYLAB,Jyothy Labs Limited,502341
+384,VIPIND,VIP Industries Limited,500475
+385,SOLARA,Solara Active Pharma Sciences Limited,500277
+386,TV18BRDCST,TV18 Broadcast Limited,492879
+387,COCHINSHIP,Cochin Shipyard Limited,492356
+388,BURGERKING,Burger King India Limited,492320
+389,VARROC,Varroc Engineering Limited,491860
+390,RALLIS,Rallis India Limited,491617
+391,ANURAS,Anupam Rasayan India Limited,488770
+392,KPITTECH,KPIT Technologies Limited,486742
+393,FDC,FDC Limited,482628
+394,NCC,NCC Limited,481779
+395,RAIN,Rain Industries Limited,480470
+396,THYROCARE,Thyrocare Technologies Limited,477245
+397,GODFRYPHLP,Godfrey Phillips India Limited,476134
+398,KEI,KEI Industries Limited,469674
+399,GPPL,Gujarat Pipavav Port Limited,469178
+400,GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,466567
+401,MASFIN,MAS Financial Services Limited,466322
+402,LXCHEM,Laxmi Organic Industries Limited,460092
+403,GESHIP,The Great Eastern Shipping Company Limited,459564
+404,PRINCEPIPE,Prince Pipes And Fittings Limited,459303
+405,WOCKPHARMA,Wockhardt Limited,458689
+406,HATHWAY,Hathway Cable & Datacom Limited,454917
+407,BALRAMCHIN,Balrampur Chini Mills Limited,450450
+408,IFBIND,IFB Industries Limited,450387
+409,NAZARA,Nazara Technologies Limited,446530
+410,RESPONIND,Responsive Industries Limited,446011
+411,KARURVYSYA,Karur Vysya Bank Limited,444328
+412,LUXIND,Lux Industries Limited,441511
+413,ENGINERSIN,Engineers India Limited,432773
+414,DELTACORP,Delta Corp Limited,432650
+415,MAZDOCK,Mazagon Dock Shipbuilders Limited,428188
+416,RCF,Rashtriya Chemicals and Fertilizers Limited,427282
+417,JSWHL,JSW Holdings Limited,427208
+418,SUZLON,Suzlon Energy Limited,425401
+419,KRBL,KRBL Limited,422525
+420,MAHLOG,Mahindra Logistics Limited,415509
+421,IRCON,Ircon International Limited,415238
+422,SWSOLAR,Sterling And Wilson Solar Limited,414450
+423,SOBHA,Sobha Limited,414429
+424,JUBLINGREA,Jubilant Ingrevia Limited,413653
+425,SUNTECK,Sunteck Realty Limited,410490
+426,MAHSCOOTER,Maharashtra Scooters Limited,407720
+427,RAILTEL,Railtel Corporation Of India Limited,406950
+428,CSBBANK,CSB Bank Limited,403979
+429,BHARATRAS,Bharat Rasayan Limited,400044
+430,STARCEMENT,Star Cement Limited,399025
+431,SUPPETRO,Supreme Petrochem Limited,392959
+432,HOMEFIRST,Home First Finance Company India Limited,391842
+433,HEMIPROP,Hemisphere Properties India Limited,391733
+434,SPANDANA,Spandana Sphoorty Financial Limited,389880
+435,AGCNET,AGC Networks Limited,386369
+436,INDOSTAR,IndoStar Capital Finance Limited,386348
+437,ADVENZYMES,Advanced Enzyme Technologies Limited,385407
+438,SUPRAJIT,Suprajit Engineering Limited,385349
+439,ECLERX,eClerx Services Limited,384832
+440,BAJAJCON,Bajaj Consumer Care Limited,383457
+441,IRB,IRB Infrastructure Developers Limited,381675
+442,NETWORK18,Network18 Media & Investments Limited,381089
+443,FACT,Fertilizers and Chemicals Travancore Limited,380235
+444,SPARC,Sun Pharma Advanced Research Company Limited,372469
+445,NESCO,Nesco Limited,370760
+446,IBREALEST,Indiabulls Real Estate Limited,368732
+447,TASTYBITE,Tasty Bite Eatables Limited,366272
+448,TCIEXP,TCI Express Limited,363898
+449,GULFOILLUB,Gulf Oil Lubricants India Limited,363335
+450,WELCORP,Welspun Corp Limited,360934
+451,HGS,Hinduja Global Solutions Limited,360383
+452,SUDARSCHEM,Sudarshan Chemical Industries Limited,358701
+453,MOIL,MOIL Limited,357297
+454,PRAJIND,Praj Industries Limited,357022
+455,TATASTLLP,Tata Steel Long Products Limited,349908
+456,TECHNOE,Techno Electric & Engineering Company Limited,337535
+457,PAISALO,Paisalo Digital Limited,334108
+458,PRIVISCL,Privi Speciality Chemicals Limited,333615
+459,MIDHANI,Mishra Dhatu Nigam Limited,331311
+460,SWANENERGY,Swan Energy Limited,331090
+461,ITDC,India Tourism Development Corporation Limited,329397
+462,JSL,Jindal Stainless Limited,329371
+463,TRITURBINE,Triveni Turbine Limited,329125
+464,PHILIPCARB,Phillips Carbon Black Limited,328821
+465,JINDALPOLY,Jindal Poly Films Limited,324282
+466,GSFC,Gujarat State Fertilizers & Chemicals Limited,323962
+467,KSCL,Kaveri Seed Company Limited,323884
+468,IOLCP,IOL Chemicals and Pharmaceuticals Limited,323379
+469,HFCL,HFCL Limited,323021
+470,DHANUKA,Dhanuka Agritech Limited,321251
+471,INOXLEISUR,INOX Leisure Limited,321198
+472,BORORENEW,BOROSIL RENEWABLES LIMITED,320181
+473,DCBBANK,DCB Bank Limited,318595
+474,ICRA,ICRA Limited,315595
+475,MTARTECH,Mtar Technologies Limited,314886
+476,KSB,Ksb Limited,311965
+477,TCNSBRANDS,TCNS Clothing Co. Limited,311796
+478,CCL,CCL Products (India) Limited,311219
+479,MASTEK,Mastek Limited,307753
+480,CAPLIPOINT,Caplin Point Laboratories Limited,305181
+481,ALLCARGO,Allcargo Logistics Limited,303188
+482,CHALET,Chalet Hotels Limited,299950
+483,CRAFTSMAN,Craftsman Automation Limited,299906
+484,EQUITAS,Equitas Holdings Limited,298212
+485,GET&D,GE T&D India Limited,297782
+486,MAGMA,Magma Fincorp Limited,296848
+487,MEGH,Meghmani Organics Limited,296530
+488,GREAVESCOT,Greaves Cotton Limited,295135
+489,JSLHISAR,Jindal Stainless (Hisar) Limited,295036
+490,GAEL,Gujarat Ambuja Exports Limited,293205
+491,LEMONTREE,Lemon Tree Hotels Limited,293131
+492,MAHLIFE,Mahindra Lifespace Developers Limited,292550
+493,NILKAMAL,Nilkamal Limited,291101
+494,SURYODAY,Suryoday Small Finance Bank Limited,290480
+495,NOCIL,NOCIL Limited,290452
+496,ASHOKA,Ashoka Buildcon Limited,286057
+497,MHRIL,Mahindra Holidays & Resorts India Limited,280997
+498,SAREGAMA,Saregama India Limited,278091
+499,TTML,Tata Teleservices (Maharashtra) Limited,275645
+500,ESABINDIA,Esab India Limited,275497
+501,UFLEX,UFLEX Limited,272996
+502,SHILPAMED,Shilpa Medicare Limited,272137
+503,ORIENTREF,Orient Refractories Limited,271034
+504,POLYPLEX,Polyplex Corporation Limited,270917
+505,JAMNAAUTO,Jamna Auto Industries Limited,270358
+506,JKTYRE,JK Tyre & Industries Limited,268392
+507,NEULANDLAB,Neuland Laboratories Limited,268042
+508,NFL,National Fertilizers Limited,265403
+509,INDOCO,Indoco Remedies Limited,264978
+510,ALEMBICLTD,Alembic Limited,264357
+511,ICIL,Indo Count Industries Limited,259877
+512,SHARDACROP,Sharda Cropchem Limited,258752
+513,TATAMETALI,Tata Metaliks Limited,257672
+514,BSE,BSE Limited,257134
+515,UJJIVAN,Ujjivan Financial Services Limited,255843
+516,JKPAPER,JK Paper Limited,253849
+517,GPIL,Godawari Power And Ispat limited,253296
+518,GUJALKALI,Gujarat Alkalies and Chemicals Limited,253239
+519,HERANBA,Heranba Industries Limited,252565
+520,LAOPALA,La Opala RG Limited,246198
+521,RUPA,Rupa & Company Limited,244379
+522,RAYMOND,Raymond Limited,240697
+523,MINDACORP,Minda Corporation Limited,240275
+524,HCG,Healthcare Global Enterprises Limited,238794
+525,ANGELBRKG,Angel Broking Limited,238279
+526,JINDALSAW,Jindal Saw Limited,237098
+527,KIRLOSENG,Kirloskar Oil Engines Limited,236588
+528,SHOPERSTOP,Shoppers Stop Limited,235122
+529,DEN,Den Networks Limited,235033
+530,DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,232666
+531,BEPL,Bhansali Engineering Polymers Limited,232517
+532,FRETAIL,Future Retail Limited,231284
+533,PTC,PTC India Limited,230146
+534,HIL,HIL Limited,228433
+535,IFCI,IFCI Limited,227519
+536,RELIGARE,Religare Enterprises Limited,226987
+537,GREENLAM,Greenlam Industries Limited,226230
+538,SCHNEIDER,Schneider Electric Infrastructure Limited,225714
+539,EASEMYTRIP,Easy Trip Planners Limited,225004
+540,TATACOFFEE,Tata Coffee Limited,224031
+541,JPPOWER,Jaiprakash Power Ventures Limited,222737
+542,RAMCOIND,Ramco Industries Limited,222421
+543,GDL,Gateway Distriparks Limited,221584
+544,BALMLAWRIE,Balmer Lawrie & Company Limited,220167
+545,MATRIMONY,Matrimony.Com Limited,219414
+546,VENKEYS,Venky's (India) Limited,219143
+547,UNICHEMLAB,Unichem Laboratories Limited,218680
+548,GHCL,GHCL Limited,218055
+549,INGERRAND,Ingersoll Rand (India) Limited,215594
+550,SUVIDHAA,Suvidhaa Infoserve Limited,213052
+551,GRSE,Garden Reach Shipbuilders & Engineers Limited,211749
+552,HUHTAMAKI,Huhtamaki India Limited,211386
+553,REPCOHOME,Repco Home Finance Limited,210863
+554,MSTCLTD,Mstc Limited,210109
+555,VRLLOG,VRL Logistics Limited,209642
+556,GREENPLY,Greenply Industries Limited,209141
+557,JTEKTINDIA,Jtekt India Limited,205730
+558,MARKSANS,Marksans Pharma Limited,204452
+559,TRIVENI,Triveni Engineering & Industries Limited,204283
+560,ATFL,Agro Tech Foods Limited,203008
+561,SUBROS,Subros Limited,201644
+562,NEOGEN,Neogen Chemicals Limited,200864
+563,AHLUCONT,Ahluwalia Contracts (India) Limited,200427
+564,ORIENTCEM,Orient Cement Limited,200362
+565,SUBEXLTD,Subex Limited,199792
+566,JBMA,JBM Auto Limited,199388
+567,BANARISUG,Bannari Amman Sugars Limited,198673
+568,NEWGEN,Newgen Software Technologies Limited,198010
+569,BECTORFOOD,Mrs. Bectors Food Specialities Limited,197741
+570,TCI,Transport Corporation of India Limited,197491
+571,OAL,Oriental Aromatics Limited,197378
+572,ASTEC,Astec LifeSciences Limited,196528
+573,GREENPANEL,Greenpanel Industries Limited,196388
+574,SHIL,Somany Home Innovation Limited,196321
+575,NIITLTD,NIIT Limited,196294
+576,EVEREADY,Eveready Industries India Limited,196256
+577,VESUVIUS,Vesuvius India Limited,195502
+578,RENUKA,Shree Renuka Sugars Limited,194757
+579,HGINFRA,H.G. Infra Engineering Limited,194275
+580,GEPIL,GE Power India Limited,192943
+581,BOROLTD,Borosil Limited,192691
+582,KIRLOSBROS,Kirloskar Brothers Limited,190026
+583,KTKBANK,The Karnataka Bank Limited,189941
+584,SURYAROSNI,Surya Roshni Limited,187657
+585,DAAWAT,LT Foods Limited,187109
+586,MAYURUNIQ,Mayur Uniquoters Ltd,185799
+587,THOMASCOOK,Thomas Cook  (India)  Limited,185733
+588,MAHSEAMLES,Maharashtra Seamless Limited,184450
+589,NAVNETEDUL,Navneet Education Limited,183325
+590,DFMFOODS,DFM Foods Limited,183061
+591,J&KBANK,The Jammu & Kashmir Bank Limited,183000
+592,APARINDS,Apar Industries Limited,181891
+593,SOMANYCERA,Somany Ceramics Limited,181003
+594,CAMLINFINE,Camlin Fine Sciences Limited,179072
+595,ADFFOODS,ADF Foods Limited,178913
+596,OLECTRA,Olectra Greentech Limited,178361
+597,SHRIPISTON,Shriram Pistons & Rings Limited,178127
+598,HIKAL,Hikal Limited,176998
+599,GMDCLTD,Gujarat Mineral Development Corporation Limited,175695
+600,ACE,Action Construction Equipment Limited,175161
+601,PILANIINVS,Pilani Investment and Industries Corporation Limited,174886
+602,HSCL,Himadri Speciality Chemical Limited,174433
+603,PDSMFL,PDS Multinational Fashions Limited,172520
+604,KOLTEPATIL,Kolte - Patil Developers Limited,171884
+605,PFOCUS,Prime Focus Limited,171320
+606,DCAL,Dishman Carbogen Amcis Limited,170894
+607,ARVIND,Arvind Limited,170501
+608,DISHTV,Dish TV India Limited,170316
+609,JPASSOCIAT,Jaiprakash Associates Limited,168652
+610,TINPLATE,The Tinplate Company of India Limited,168044
+611,SAGCEM,Sagar Cements Limited,168037
+612,RKFORGE,Ramkrishna Forgings Limited,167212
+613,PSPPROJECT,PSP Projects Limited,166788
+614,PURVA,Puravankara Limited,166005
+615,AMRUTANJAN,Amrutanjan Health Care Limited,165928
+616,JAGRAN,Jagran Prakashan Limited,165205
+617,INEOSSTYRO,INEOS Styrolution India Limited,163678
+618,HESTERBIO,Hester Biosciences Limited,163000
+619,RAMCOSYS,Ramco Systems Limited,162597
+620,WELENT,Welspun Enterprises Limited,161930
+621,ANANTRAJ,Anant Raj Limited,160385
+622,AUTOAXLES,Automotive Axles Limited,159764
+623,WSTCSTPAPR,West Coast Paper Mills Limited,159475
+624,SWARAJENG,Swaraj Engines Limited,159262
+625,TVTODAY,TV Today Network Limited,158361
+626,SHK,S H Kelkar and Company Limited,157502
+627,DBCORP,D.B.Corp Limited,157202
+628,MAITHANALL,Maithan Alloys Limited,156475
+629,FMGOETZE,Federal-Mogul Goetze (India) Limited.,156382
+630,WABAG,VA Tech Wabag Limited,156005
+631,VSTTILLERS,V.S.T Tillers Tractors Limited,154902
+632,INOXWIND,Inox Wind Limited,154899
+633,DALMIASUG,Dalmia Bharat Sugar and Industries Limited,151114
+634,JAICORPLTD,Jai Corp Limited,151057
+635,SARDAEN,Sarda Energy & Minerals Limited,150902
+636,TIDEWATER,Tide Water Oil Company (India) Limited,150643
+637,LUMAXIND,Lumax Industries Limited,150213
+638,SOUTHBANK,The South Indian Bank Limited,149302
+639,CHEMCON,Chemcon Speciality Chemicals Limited,149288
+640,STOVEKRAFT,Stove Kraft Limited,149152
+641,CHENNPETRO,Chennai Petroleum Corporation Limited,149135
+642,GABRIEL,Gabriel India Limited,148169
+643,ORISSAMINE,The Orissa Minerals Development Company Limited,147960
+644,TEJASNET,Tejas Networks Limited,147901
+645,FILATEX,Filatex India Limited,147506
+646,JKIL,J.Kumar Infraprojects Limited,146526
+647,BOMDYEING,Bombay Dyeing & Mfg Company Limited,144987
+648,MOREPENLAB,Morepen Laboratories Limited,144274
+649,HMT,HMT Limited,143728
+650,HIMATSEIDE,Himatsingka Seide Limited,142615
+651,IIFLSEC,IIFL Securities Limited,141622
+652,KIRIINDUS,Kiri Industries Limited,139963
+653,NUCLEUS,Nucleus Software Exports Limited,139729
+654,KSL,Kalyani Steels Limited,139100
+655,DIAMONDYD,Prataap Snacks Limited,138232
+656,SOTL,Savita Oil Technologies Limited,137474
+657,ARVINDFASN,Arvind Fashions Limited,137124
+658,CAPACITE,Capacit'e Infraprojects Limited,136971
+659,TIMETECHNO,Time Technoplast Limited,136932
+660,HERITGFOOD,Heritage Foods Limited,136549
+661,RSYSTEMS,R Systems International Limited,135967
+662,TVSSRICHAK,TVS Srichakra Limited,135913
+663,SAFARI,Safari Industries (India) Limited,135718
+664,ASHIANA,Ashiana Housing Limited,134695
+665,GTPL,GTPL Hathway Limited,134674
+666,ITDCEM,ITD Cementation India Limited,133737
+667,SASKEN,Sasken Technologies Limited,131597
+668,DOLLAR,Dollar Industries Limited,130702
+669,APOLLOPIPE,Apollo Pipes Limited,129573
+670,INDIAGLYCO,India Glycols Limited,129078
+671,GANECOS,Ganesha Ecosphere Limited,128695
+672,HINDOILEXP,Hindustan Oil Exploration Company Limited,128524
+673,ACCELYA,Accelya Solutions India Limited,127605
+674,PRAKASH,Prakash Industries Limited,127314
+675,IGPL,IG Petrochemicals Limited,127306
+676,PCJEWELLER,PC Jeweller Limited,126124
+677,JMCPROJECT,JMC Projects (India)  Limited,126097
+678,RTNPOWER,RattanIndia Power Limited,125964
+679,GATI,GATI Limited,125299
+680,OMAXE,Omaxe Limited,124189
+681,GENUSPOWER,Genus Power Infrastructures Limited,124176
+682,SANDHAR,Sandhar Technologies Limited,123602
+683,PSB,Punjab & Sind Bank,123385
+684,JSWISPL,JSW Ispat Special Products Limited,123021
+685,NBVENTURES,Nava Bharat Ventures Limited,122471
+686,CONFIPET,Confidence Petroleum India Limited,122130
+687,IMFA,Indian Metals & Ferro Alloys Limited,122031
+688,RPOWER,Reliance Power Limited,122023
+689,HCC,Hindustan Construction Company Limited,121799
+690,DHAMPURSUG,Dhampur Sugar Mills Limited,121290
+691,CARERATING,CARE Ratings Limited,121086
+692,3IINFOTECH,3i Infotech Limited,120441
+693,KIRLOSIND,Kirloskar Industries Limited,120013
+694,GEOJITFSL,Geojit Financial Services Limited,119783
+695,QUICKHEAL,Quick Heal Technologies Limited,119743
+696,MMFL,MM Forgings Limited,119304
+697,FCONSUMER,Future Consumer Limited,119222
+698,MTNL,Mahanagar Telephone Nigam Limited,118125
+699,CENTRUM,Centrum Capital Limited,117113
+700,MUKANDLTD,Mukand Limited,117084
+701,SHARDAMOTR,Sharda Motor Industries Limited,116789
+702,PFS,PTC India Financial Services Limited,115932
+703,DIGISPICE,DiGiSPICE Technologies Limited,115551
+704,SUNDARMHLD,Sundaram Finance Holdings Limited,114839
+705,GIPCL,Gujarat Industries Power Company Limited,114573
+706,DPSCLTD,DPSC Limited,113446
+707,IFGLEXPOR,IFGL Refractories Limited,113127
+708,SUNFLAG,Sunflag Iron And Steel Company Limited,112907
+709,COSMOFILMS,Cosmo Films Limited,112725
+710,ASTRAMICRO,Astra Microwave Products Limited,112292
+711,NXTDIGITAL,NXTDIGITAL LIMITED,111670
+712,SEAMECLTD,Seamec Limited,111463
+713,VOLTAMP,Voltamp Transformers Limited,110788
+714,LUMAXTECH,Lumax Auto Technologies Limited,110552
+715,BODALCHEM,Bodal Chemicals Limited,110219
+716,PANACEABIO,Panacea Biotec Limited,109578
+717,MOLDTKPAC,Mold-Tek Packaging Limited,109122
+718,SSWL,Steel Strips Wheels Limited,108978
+719,WHEELS,Wheels India Limited,108892
+720,SHALBY,Shalby Limited,108874
+721,WONDERLA,Wonderla Holidays Limited,108712
+722,JETAIRWAYS,Jet Airways (India) Limited,108429
+723,ELECTCAST,Electrosteel Castings Limited,108239
+724,GOCLCORP,GOCL Corporation Limited,108217
+725,KCP,KCP Limited,107971
+726,PUNJABCHEM,Punjab Chemicals & Crop Protection Limited,107325
+727,SADBHAV,Sadbhav Engineering Limited,106889
+728,KKCL,Kewal Kiran Clothing Limited,106821
+729,SANGHIIND,Sanghi Industries Limited,106675
+730,YAARII,Yaarii Digital Integrated Services Limited,106342
+731,VIDHIING,Vidhi Specialty Food Ingredients Limited,106108
+732,EXCELINDUS,Excel Industries Limited,106040
+733,NRBBEARING,NRB Bearing Limited,105500
+734,SMSPHARMA,SMS Pharmaceuticals Limited,105180
+735,OPTIEMUS,Optiemus Infracom Limited,103878
+736,DREDGECORP,Dredging Corporation of India Limited,103810
+737,BFINVEST,BF Investment Limited,103774
+738,MANINFRA,Man Infraconstruction Limited,103208
+739,GALLISPAT,Gallantt Ispat Limited,103203
+740,SESHAPAPER,Seshasayee Paper and Boards Limited,102044
+741,MANALIPETC,Manali Petrochemicals Limited,101910
+742,BLISSGVS,Bliss GVS Pharma Limited,101651
+743,TNPL,Tamil Nadu Newsprint & Papers Limited,101428
+744,USHAMART,Usha Martin Limited,100717
+745,INDORAMA,Indo Rama Synthetics (India) Limited,100659
+746,BANCOINDIA,Banco Products (I) Limited,100519
+747,KESORAMIND,Kesoram Industries Limited,100170
+748,GTLINFRA,GTL Infrastructure Limited,99973
+749,HSIL,HSIL Limited,99375
+750,BUTTERFLY,Butterfly Gandhimathi Appliances Limited,99330
+751,FLFL,Future Lifestyle Fashions Limited,98668
+752,INSECTICID,Insecticides (India) Limited,98027
+753,SHANTIGEAR,Shanthi Gears Limited,97583
+754,FAIRCHEMOR,Fairchem Organics Limited,97579
+755,ESTER,Ester Industries Limited,97362
+756,VINDHYATEL,Vindhya Telelinks Limited,97177
+757,HONDAPOWER,Honda India Power Products Limited,97013
+758,JINDWORLD,Jindal Worldwide Limited,96350
+759,TIIL,Technocraft Industries (India) Limited,96257
+760,LGBBROSLTD,LG Balakrishnan & Bros Limited,95920
+761,SHAKTIPUMP,Shakti Pumps (India) Limited,94943
+762,BLS,BLS International Services Limited,94459
+763,SHANKARA,Shankara Building Products Limited,93968
+764,PRABHAT,Prabhat Dairy Limited,93574
+765,APCOTEXIND,Apcotex Industries Limited,93139
+766,BFUTILITIE,BF Utilities Limited,92662
+767,HBLPOWER,HBL Power Systems Limited,92445
+768,RELINFRA,Reliance Infrastructure Limited,92309
+769,ONMOBILE,OnMobile Global Limited,92113
+770,OCCL,Oriental Carbon & Chemicals Limited,91599
+771,GLOBUSSPR,Globus Spirits Limited,91438
+772,JISLJALEQS,Jain Irrigation Systems Limited,91331
+773,ASHAPURMIN,Ashapura Minechem Limited,90900
+774,SUVEN,Suven Life Sciences Limited,89925
+775,RPSGVENT,RPSG VENTURES LIMITED,89383
+776,TEXINFRA,Texmaco Infrastructure & Holdings Limited,89199
+777,GUFICBIO,Gufic Biosciences Limited,89115
+778,PARAGMILK,Parag Milk Foods Limited,88783
+779,CIGNITITEC,Cigniti Technologies Limited,88263
+780,SHREDIGCEM,Shree Digvijay Cement Co.Ltd,87937
+781,EKC,Everest Kanto Cylinder Limited,87859
+782,PANAMAPET,Panama Petrochem Limited,87746
+783,TIRUMALCHM,Thirumalai Chemicals Limited,87593
+784,SIYSIL,Siyaram Silk Mills Limited,87366
+785,ANDHRAPAP,ANDHRA PAPER LIMITED,87116
+786,PNBGILTS,PNB Gilts Limited,86585
+787,ARSHIYA,Arshiya Limited,86584
+788,SIRCA,Sirca Paints India Limited,86570
+789,POWERMECH,Power Mech Projects Limited,85896
+790,CLNINDIA,Clariant Chemicals (India) Limited,85784
+791,IGARASHI,Igarashi Motors India Limited,85770
+792,TARC,Anant Raj Global Limited,85725
+793,MANGCHEFER,Mangalore Chemicals & Fertilizers Limited,85568
+794,PRICOLLTD,Pricol Limited,85317
+795,IMPAL,India Motor Parts and Accessories Limited,84964
+796,RANEHOLDIN,Rane Holdings Limited,84275
+797,SHAREINDIA,Share India Securities Limited,83898
+798,MPSLTD,MPS Limited,83555
+799,INDNIPPON,India Nippon Electricals Limited,83439
+800,INDIANHUME,Indian Hume Pipe Company Limited,83232
+801,MAXVIL,Max Ventures and Industries Limited,82623
+802,ACRYSIL,Acrysil Limited,82194
+803,POKARNA,Pokarna Limited,81649
+804,SATIA,Satia Industries Limited,81450
+805,RADIOCITY,Music Broadcast Limited,81409
+806,MARINE,Marine Electricals (India) Limited,80714
+807,SRIPIPES,Srikalahasthi Pipes Limited,80485
+808,THANGAMAYL,Thangamayil Jewellery Limited,80280
+809,GFLLIMITED,GFL Limited,80136
+810,RAJRATAN,Rajratan Global Wire Limited,79563
+811,PGEL,PG Electroplast Limited,79473
+812,ANDHRSUGAR,The Andhra Sugars Limited,78841
+813,VISAKAIND,Visaka Industries Limited,77980
+814,SMCGLOBAL,SMC Global Securities Limited,77893
+815,NCLIND,NCL Industries Limited,77755
+816,GMBREW,GM Breweries Limited,76163
+817,ASALCBR,Associated Alcohols & Breweries Ltd.,76059
+818,APTECHT,Aptech Limited,75790
+819,GOLDIAM,Goldiam International Limited,75616
+820,EMAMIPAP,Emami Paper Mills Limited,74958
+821,MANGLMCEM,Mangalam Cement Limited,74956
+822,KARDA,Karda Constructions Limited,74477
+823,NACLIND,NACL Industries Limited,73876
+824,SNOWMAN,Snowman Logistics Limited,73185
+825,FIEMIND,Fiem Industries Limited,73175
+826,GNA,GNA Axles Limited,73036
+827,FOSECOIND,Foseco India Limited,73004
+828,FCL,Fineotex Chemical Limited,72872
+829,XCHANGING,Xchanging Solutions Limited,71633
+830,TEXRAIL,Texmaco Rail & Engineering Limited,71445
+831,EIHAHOTELS,EIH Associated Hotels Limited,71433
+832,ELECON,Elecon Engineering Company Limited,71247
+833,KINGFA,Kingfa Science & Technology (India) Limited,70761
+834,AARTISURF,Aarti Surfactants Limited,70623
+835,RTNINFRA,RattanIndia Infrastructure Limited,70496
+836,STERTOOLS,Sterling Tools Limited,70481
+837,BAJAJHIND,Bajaj Hindusthan Sugar Limited,70281
+838,TTKHLTCARE,TTK Healthcare Limited,69903
+839,KELLTONTEC,Kellton Tech Solutions Limited,69395
+840,ENIL,Entertainment Network (India) Limited,69217
+841,SADBHIN,Sadbhav Infrastructure Project Limited,68860
+842,BHAGERIA,Bhageria Industries Limited,68849
+843,KICL,Kalyani Investment Company Limited,68684
+844,AVTNPL,AVT Natural Products Limited,68528
+845,TAJGVK,Taj GVK Hotels & Resorts Limited,68501
+846,AWHCL,Antony Waste Handling Cell Limited,68427
+847,DCW,DCW Limited,68390
+848,DATAMATICS,Datamatics Global Services Limited,67998
+849,JAYNECOIND,Jayaswal Neco Industries Limited,67695
+850,TAKE,Take Solutions Limited,66422
+851,KITEX,Kitex Garments Limited,65669
+852,SMLISUZU,SML Isuzu Limited,65477
+853,APEX,Apex Frozen Foods Limited,64813
+854,VADILALIND,Vadilal Industries Limited,64378
+855,SUTLEJTEX,Sutlej Textiles and Industries Limited,64303
+856,RPGLIFE,RPG Life Sciences Limited,64072
+857,5PAISA,5Paisa Capital Limited,63713
+858,SPENCERS,Spencer's Retail Limited,63638
+859,BBL,Bharat Bijlee Limited,63170
+860,WENDT,Wendt (India) Limited,62942
+861,LIKHITHA,Likhitha Infrastructure Limited,62903
+862,CEREBRAINT,Cerebra Integrated Technologies Limited,62835
+863,GICHSGFIN,GIC Housing Finance Limited,62763
+864,SKIPPER,Skipper Limited,62680
+865,GRAVITA,Gravita India Limited,62479
+866,RBL,Rane Brake Lining Limited,62093
+867,CANTABIL,Cantabil Retail India Limited,61735
+868,ZENTEC,Zen Technologies Limited,61541
+869,TIPSINDLTD,TIPS Industries Limited,61517
+870,MUTHOOTCAP,Muthoot Capital Services Limited,60206
+871,NURECA,Nureca Limited,60106
+872,DYNAMATECH,Dynamatic Technologies Limited,60085
+873,PLASTIBLEN,Plastiblends India Limited,59801
+874,SPIC,Southern Petrochemicals Industries Corporation  Limited,59768
+875,UNIENTER,Uniphos Enterprises Limited,59288
+876,DYNPRO,Dynemic Products Limited,59027
+877,ALICON,Alicon Castalloy Limited,59014
+878,KUANTUM,Kuantum Papers Limited,58903
+879,DBREALTY,D B Realty Limited,58869
+880,SUMMITSEC,Summit Securities Limited,58859
+881,ANUP,The Anup Engineering Limited,58107
+882,DECCANCE,Deccan Cements Limited,58089
+883,DWARKESH,Dwarikesh Sugar Industries Limited,57997
+884,BALAJITELE,Balaji Telefilms Limited,57948
+885,HARITASEAT,Harita Seating Systems Limited,57215
+886,NATHBIOGEN,Nath Bio-Genes (India) Limited,57050
+887,KABRAEXTRU,Kabra Extrusion Technik Limited,56515
+888,VSSL,Vardhman Special Steels Limited,56001
+889,VHL,Vardhman Holdings Limited,55990
+890,NELCAST,Nelcast Limited,55898
+891,MUNJALSHOW,Munjal Showa Limited,55473
+892,RGL,Renaissance Global Limited,55430
+893,CENTENKA,Century Enka Limited,55391
+894,KOKUYOCMLN,Kokuyo Camlin Limited,55067
+895,RIIL,Reliance Industrial Infrastructure Limited,55047
+896,MIRZAINT,Mirza International Limited,54799
+897,PATELENG,Patel Engineering Limited,54458
+898,NSIL,Nalwa Sons Investments Limited,54407
+899,EXPLEOSOL,Expleo Solutions Limited,54015
+900,MUNJALAU,Munjal Auto Industries Limited,53700
+901,RAMKY,Ramky Infrastructure Limited,53628
+902,APCL,Anjani Portland Cement Limited,53555
+903,UNIDT,United Drilling Tools Limited,53306
+904,TWL,Titagarh Wagons Limited,53187
+905,GAYAPROJ,Gayatri Projects Limited,53164
+906,EBIXFOREX,EBIXCASH WORLD MONEY INDIA LIMITED,53152
+907,SHALPAINTS,Shalimar Paints Limited,53133
+908,BALAXI,BALAXI PHARMACEUTICALS LIMITED,52450
+909,ORIENTPPR,Orient Paper & Industries Limited,52198
+910,ARMANFIN,Arman Financial Services Limited,51749
+911,RML,Rane (Madras) Limited,51069
+912,AMBIKCO,Ambika Cotton Mills Limited,50981
+913,SALASAR,Salasar Techno Engineering Limited,50363
+914,TFCILTD,Tourism Finance Corporation of India Limited,49722
+915,JAYBARMARU,Jay Bharat Maruti Limited,49297
+916,INDRAMEDCO,Indraprastha Medical Corporation Limited,49228
+917,DHFL,Dewan Housing Finance Corporation Limited,49113
+918,SANDESH,The Sandesh Limited,49084
+919,CENTUM,Centum Electronics Limited,48685
+920,SUULD,Suumaya Industries Limited,48544
+921,HTMEDIA,HT Media Limited,48412
+922,ALLSEC,Allsec Technologies Limited,48298
+923,NBIFIN,N. B. I. Industrial Finance Company Limited,48117
+924,RICOAUTO,Rico Auto Industries Limited,48026
+925,STEELXIND,STEEL EXCHANGE INDIA LIMITED,47339
+926,THEINVEST,The Investment Trust Of India Limited,47090
+927,RCOM,Reliance Communications Limited,47014
+928,MONTECARLO,Monte Carlo Fashions Limited,46906
+929,NAVKARCORP,Navkar Corporation Limited,46887
+930,BINDALAGRO,Oswal Chemicals & Fertilizers Limited,45969
+931,TDPOWERSYS,TD Power Systems Limited,45843
+932,MANINDS,Man Industries (India) Limited,45483
+933,KOPRAN,Kopran Limited,45437
+934,NITINSPIN,Nitin Spinners Limited,45398
+935,LINCOLN,Lincoln Pharmaceuticals Limited,44970
+936,EVERESTIND,Everest Industries Limited,44814
+937,PRECWIRE,Precision Wires India Limited,44786
+938,SATIN,Satin Creditcare Network Limited,44649
+939,STCINDIA,The State Trading Corporation of India Limited,44640
+940,ASIANTILES,Asian Granito India Limited,44581
+941,VISHWARAJ,Vishwaraj Sugar Industries Limited,44485
+942,HMVL,Hindustan Media Ventures Limited,44056
+943,RSWM,RSWM Limited,43946
+944,TNPETRO,Tamilnadu PetroProducts Limited,43906
+945,UNIVCABLES,Universal Cables Limited,43634
+946,SANGHVIMOV,Sanghvi Movers Limited,43483
+947,SORILINFRA,SORIL Infra Resources Limited,43470
+948,HITECH,Hi-Tech Pipes Limited,43393
+949,GULPOLY,Gulshan Polyols Limited,43187
+950,UNITECH,Unitech Limited,43169
+951,NELCO,NELCO Limited,43047
+952,V2RETAIL,V2 Retail Limited,42921
+953,INDSWFTLAB,Ind-Swift Laboratories Limited,42513
+954,REPRO,Repro India Limited,42257
+955,SHREEPUSHK,Shree Pushkar Chemicals & Fertilisers Limited,42246
+956,BCG,Brightcom Group Limited,41881
+957,AJMERA,Ajmera Realty & Infra India Limited,41748
+958,NECLIFE,Nectar Lifesciences Limited,41713
+959,BLKASHYAP,B. L. Kashyap and Sons Limited,41706
+960,RUSHIL,Rushil Decor Limited,41678
+961,TBZ,Tribhovandas Bhimji Zaveri Limited,41473
+962,THEJO,Thejo Engineering Limited,41111
+963,HEXATRADEX,Hexa Tradex Limited,40964
+964,JAYAGROGN,Jayant Agro Organics Limited,40905
+965,ADORWELD,Ador Welding Limited,40891
+966,PILITA,PIL ITALICA LIFESTYLE LIMITED,40890
+967,MADRASFERT,Madras Fertilizers Limited,40839
+968,ORIENTHOT,Oriental Hotels Limited,40721
+969,TCPLPACK,TCPL Packaging Limited,40577
+970,SRHHYPOLTD,Sree Rayalaseema Hi-Strength Hypo Limited,40518
+971,JAIBALAJI,Jai Balaji Industries Limited,40480
+972,NRAIL,N R Agarwal Industries Limited,40225
+973,KANORICHEM,Kanoria Chemicals & Industries Limited,39783
+974,MAHEPC,Mahindra EPC Irrigation Limited,39662
+975,CONTROLPR,Control Print Limited,39425
+976,SPAL,S. P. Apparels Limited,39335
+977,ATULAUTO,Atul Auto Limited,39223
+978,HINDCOMPOS,Hindustan Composites Limited,38968
+979,SHRIRAMEPC,Shriram EPC Limited,38861
+980,KAYA,Kaya Limited,38702
+981,ROSSELLIND,Rossell India Limited,38476
+982,ZUARI,Zuari Agro Chemicals Limited,38231
+983,ASAHISONG,Asahi Songwon Colors Limited,38132
+984,IFBAGRO,IFB Agro Industries Limited,37801
+985,SAKSOFT,Saksoft Limited,37764
+986,PRECAM,Precision Camshafts Limited,37709
+987,NAGAFERT,Nagarjuna Fertilizers and Chemicals Limited,37678
+988,NAHARSPING,Nahar Spinning Mills Limited,37526
+989,KAMDHENU,Kamdhenu Limited,37508
+990,DHANBANK,Dhanlaxmi Bank Limited,37446
+991,DLINKINDIA,D-Link (India) Limited,37369
+992,PARSVNATH,Parsvnath Developers Limited,37208
+993,SCHAND,S Chand And Company Limited,37196
+994,PGIL,Pearl Global Industries Limited,37164
+995,AVADHSUGAR,Avadh Sugar & Energy Limited,37114
+996,SASTASUNDR,Sastasundar Ventures Limited,37107
+997,TI,Tilaknagar Industries Limited,36940
+998,NDTV,New Delhi Television Limited,36394
+999,HLVLTD,HLV LIMITED,36257
+1000,FEL,Future Enterprises Limited,36167
+1001,DICIND,DIC India Limited,36041
+1002,JASH,Jash Engineering Limited,35732
+1003,VIMTALABS,Vimta Labs Limited,35682
+1004,HERCULES,Hercules Hoists Limited,35648
+1005,XELPMOC,Xelpmoc Design And Tech Limited,35600
+1006,AKASH,Akash Infra-Projects Limited,35470
+1007,GALLANTT,Gallantt Metal Limited,35457
+1008,VIPULLTD,Vipul Limited,35395
+1009,REPL,Rudrabhishek Enterprises Limited,35084
+1010,SREEL,Sreeleathers Limited,34924
+1011,GANDHITUBE,Gandhi Special Tubes Limited,34919
+1012,INFOBEAN,InfoBeans Technologies Limited,34715
+1013,UTTAMSUGAR,Uttam Sugar Mills Limited,34706
+1014,DVL,Dhunseri Ventures Limited,34534
+1015,MAXIND,Max India Limited,34504
+1016,ARVSMART,Arvind SmartSpaces Limited,34451
+1017,ZOTA,Zota Health Care LImited,34016
+1018,VENUSREM,Venus Remedies Limited,33916
+1019,VISHNU,Vishnu Chemicals Limited,33903
+1020,ZEELEARN,Zee Learn Limited,33751
+1021,GOKEX,Gokaldas Exports Limited,33480
+1022,KDDL,KDDL Limited,33442
+1023,CYBERTECH,Cybertech Systems And Software Limited,33326
+1024,URJA,Urja Global Limited,33222
+1025,MANAKSIA,Manaksia Limited,33062
+1026,VASCONEQ,Vascon Engineers Limited,33058
+1027,BAFNAPH,Bafna Pharmaceuticals Limited,32516
+1028,BIRLATYRE,Birla Tyres Limited,32511
+1029,VERTOZ,Vertoz Advertising Limited,32487
+1030,GENESYS,Genesys International Corporation Limited,32444
+1031,HITECHGEAR,The Hi-Tech Gears Limited,32412
+1032,SANGAMIND,Sangam (India) Limited,32349
+1033,63MOONS,63 moons technologies limited,31955
+1034,VLSFINANCE,VLS Finance Limited,31510
+1035,BGRENERGY,BGR Energy Systems Limited,31499
+1036,AURIONPRO,Aurionpro Solutions Limited,31236
+1037,HPL,HPL Electric & Power Limited,30993
+1038,UCALFUEL,Ucal Fuel Systems Limited,30937
+1039,MIRCELECTR,MIRC Electronics Limited,30832
+1040,SWELECTES,Swelect Energy Systems Limited,30689
+1041,PPL,Prakash Pipes Limited,30532
+1042,ASHIMASYN,Ashima Limited,30186
+1043,ZEEMEDIA,Zee Media Corporation Limited,30131
+1044,MENONBE,Menon Bearings Limited,30037
+1045,GKWLIMITED,GKW Limited,30011
+1046,VARDHACRLC,Vardhman Acrylics Limited,29453
+1047,ORIENTBELL,Orient Bell Limited,29346
+1048,GSCLCEMENT,Gujarat Sidhee Cement Limited,29283
+1049,HCL-INSYS,HCL Infosystems Limited,29135
+1050,ARTEMISMED,Artemis Medicare Services Limited,29113
+1051,MEP,MEP Infrastructure Developers Limited,29076
+1052,HINDNATGLS,Hindusthan National Glass & Industries Limited,28971
+1053,MARATHON,Marathon Nextgen Realty Limited,28704
+1054,MSPL,MSP Steel & Power Limited,28328
+1055,ORICONENT,Oricon Enterprises Limited,28190
+1056,JUBLINDS,Jubilant Industries Limited,28138
+1057,CUPID,Cupid Limited,27996
+1058,FSC,Future Supply Chain Solutions Limited,27734
+1059,PPAP,PPAP Automotive Limited,27580
+1060,RUBYMILLS,The Ruby Mills Limited,27404
+1061,GANESHHOUC,Ganesh Housing Corporation Limited,27395
+1062,NAHARPOLY,Nahar Poly Films Limited,27170
+1063,RELCAPITAL,Reliance Capital Limited,27166
+1064,GOKULAGRO,Gokul Agro Resources Limited,26643
+1065,NIPPOBATRY,Indo-National Limited,26612
+1066,KHADIM,Khadim India Limited,26397
+1067,ADVANIHOTR,Advani Hotels & Resorts (India) Limited,26276
+1068,AHLWEST,Asian Hotels (West) Limited,26262
+1069,DPABHUSHAN,D. P. Abhushan Limited,26149
+1070,JINDRILL,Jindal Drilling And Industries Limited,26025
+1071,BCLIND,Bcl Industries Limited,25865
+1072,THEMISMED,Themis Medicare Limited,25850
+1073,GUJAPOLLO,Gujarat Apollo Industries Limited,25704
+1074,HARRMALAYA,Harrisons  Malayalam Limited,25681
+1075,PTL,PTL Enterprises Limited,25648
+1076,CHEMBOND,Chembond Chemicals Ltd,25485
+1077,PROZONINTU,Prozone Intu Properties Limited,25408
+1078,SREINFRA,SREI Infrastructure Finance Limited,25406
+1079,GOACARBON,Goa Carbon Limited,25239
+1080,TALBROAUTO,Talbros Automotive Components Limited,25160
+1081,ORIENTABRA,Orient Abrasives Limited,24885
+1082,INVENTURE,Inventure Growth & Securities Limited,24570
+1083,RAMANEWS,Shree Rama Newsprint Limited,24562
+1084,MCL,Madhav Copper Limited,24524
+1085,LASA,Lasa Supergenerics Limited,24322
+1086,CREST,Crest Ventures Limited,24097
+1087,BRNL,Bharat Road Network Limited,24052
+1088,EROSMEDIA,Eros International Media Limited,24001
+1089,MODIRUBBER,Modi Rubber Limited,23964
+1090,WALCHANNAG,Walchandnagar Industries Limited,23889
+1091,TVSELECT,TVS Electronics Limited,23835
+1092,CAREERP,Career Point Limited,23733
+1093,ZUARIGLOB,Zuari Global Limited,23700
+1094,SECURKLOUD,SECUREKLOUD TECHNOLOGIES LIMITED,23483
+1095,KRISHANA,Krishana Phoschem Limited,23319
+1096,AYMSYNTEX,AYM Syntex Limited,23241
+1097,PENIND,Pennar Industries Limited,23172
+1098,BIRLAMONEY,Aditya Birla Money Limited,23112
+1099,PDMJEPAPER,Pudumjee Paper Products Limited,22788
+1100,KOTARISUG,Kothari Sugars And Chemicals Limited,22753
+1101,ALANKIT,Alankit Limited,22659
+1102,PENINLAND,Peninsula Land Limited,22615
+1103,GIRRESORTS,GIR Natureview Resorts Limited,22472
+1104,HDIL,Housing Development and Infrastructure Limited,22278
+1105,LINCPEN,Linc Pen & Plastics Limited,22256
+1106,JPINFRATEC,Jaypee Infratech Limited,22223
+1107,VETO,Veto Switchgears And Cables Limited,22183
+1108,MAHESHWARI,Maheshwari Logistics Limited,22080
+1109,ADSL,Allied Digital Services Limited,21915
+1110,RNAVAL,Reliance Naval and Engineering Limited,21759
+1111,TRIL,Transformers And Rectifiers (India) Limited,21674
+1112,OMINFRAL,OM INFRA LIMITED,21668
+1113,LIBERTSHOE,Liberty Shoes Limited,21666
+1114,MMP,MMP Industries Limited,21656
+1115,MBAPL,Madhya Bharat Agro Products Limited,21644
+1116,ALBERTDAVD,Albert David Limited,21496
+1117,BRFL,Bombay Rayon Fashions Limited,21430
+1118,VINYLINDIA,Vinyl Chemicals (India) Limited,21344
+1119,PITTIENG,Pitti Engineering Limited,21313
+1120,KHAICHEM,Khaitan Chemicals & Fertilizers Limited,21289
+1121,HITECHCORP,Hitech Corporation Limited,21281
+1122,GEECEE,GeeCee Ventures Limited,21236
+1123,SDBL,Som Distilleries & Breweries Limited,21089
+1124,SPTL,Sintex Plastics Technology Limited,20993
+1125,JAGSNPHARM,Jagsonpal Pharmaceuticals Limited,20854
+1126,ZODIACLOTH,Zodiac Clothing Company Limited,20814
+1127,MBLINFRA,MBL Infrastructures Limited,20741
+1128,BIL,Bhartiya International Limited,20738
+1129,KANPRPLA,Kanpur Plastipack Limited,20646
+1130,SILINV,SIL Investments Limited,20614
+1131,WANBURY,Wanbury Limited,20600
+1132,SINTERCOM,Sintercom India Limited,20442
+1133,SELAN,Selan Exploration Technology Limited,20414
+1134,SARLAPOLY,Sarla Performance Fibers Limited,20124
+1135,SINTEX,Sintex Industries Limited,20074
+1136,PODDARMENT,Poddar Pigments Limited,20005
+1137,MCLEODRUSS,Mcleod Russel India Limited,19951
+1138,WINDMACHIN,Windsor Machines Limited,19837
+1139,UFO,UFO Moviez India Limited,19775
+1140,HIRECT,Hind Rectifiers Limited,19711
+1141,REFEX,Refex Industries Limited,19626
+1142,SALZERELEC,Salzer Electronics Limited,19579
+1143,VIKASMCORP,Vikas Multicorp Limited,19573
+1144,UGARSUGAR,The Ugar Sugar Works Limited,19519
+1145,AIRAN,Airan Limited,19503
+1146,EIMCOELECO,Eimco Elecon (India) Limited,19333
+1147,BASML,Bannari Amman Spinning Mills Limited,19189
+1148,EIFFL,Euro India Fresh Foods Limited,19158
+1149,JAYSREETEA,Jayshree Tea & Industries Limited,19131
+1150,ASTRON,Astron Paper & Board Mill Limited,19112
+1151,TRIGYN,Trigyn Technologies Limited,19103
+1152,AKSHARCHEM,AksharChem India Limited,19100
+1153,APOLLO,Apollo Micro Systems Limited,18999
+1154,KOTHARIPRO,Kothari Products Limited,18891
+1155,MAJESCO,Majesco Limited,18881
+1156,STARPAPER,Star Paper Mills Limited,18746
+1157,SETCO,Setco Automotive Limited,18594
+1158,ONWARDTEC,Onward Technologies Limited,18545
+1159,GENCON,Generic Engineering Construction and Projects Limited,18541
+1160,CONSOFINVT,Consolidated Finvest & Holdings Limited,18475
+1161,GULFPETRO,GP Petroleums Limited,18303
+1162,SHIVATEX,Shiva Texyarn Limited,18245
+1163,GENUSPAPER,Genus Paper & Boards Limited,18127
+1164,AHLEAST,Asian Hotels (East) Limited,18099
+1165,BIRLACABLE,Birla Cable Limited,18090
+1166,MAZDA,Mazda Limited,18083
+1167,DTIL,Dhunseri Tea & Industries Limited,18073
+1168,SHIVAMAUTO,Shivam Autotech Limited,18000
+1169,GOKUL,Gokul Refoils and Solvent Limited,17869
+1170,SPECIALITY,Speciality Restaurants Limited,17844
+1171,CHEMFAB,Chemfab Alkalis Limited,17780
+1172,INSPIRISYS,Inspirisys Solutions Limited,17729
+1173,SHEMAROO,Shemaroo Entertainment Limited,17682
+1174,SAKAR,Sakar Healthcare Limited,17664
+1175,RANEENGINE,Rane Engine Valve Limited,17574
+1176,NAHARINDUS,Nahar Industrial Enterprises Limited,17567
+1177,NAHARCAP,Nahar Capital and Financial Services Limited,17500
+1178,SIMPLEXINF,Simplex Infrastructures Limited,17429
+1179,UNIVPHOTO,Universus Photo Imagings Limited,17350
+1180,ROHLTD,Royal Orchid Hotels Limited,17237
+1181,ABAN,Aban Offshore Limited,17189
+1182,BANSWRAS,Banswara Syntex Limited,17005
+1183,NILAINFRA,Nila Infrastructures Limited,16937
+1184,KREBSBIO,Krebs Biochemicals and Industries Limited,16864
+1185,KCPSUGIND,KCP Sugar and Industries Corporation Limited,16668
+1186,RAJTV,Raj Television Network Limited,16638
+1187,NIRAJ,Niraj Cement Structurals Limited,16564
+1188,PREMEXPLN,Premier Explosives Limited,16462
+1189,AGARIND,Agarwal Industrial Corporation Limited,16291
+1190,DHUNINV,Dhunseri Investments Limited,16228
+1191,BBTCL,B&B Triplewall Containers Limited,16204
+1192,ESSARSHPNG,Essar Shipping Limited,16041
+1193,EMKAY,Emkay Global Financial Services Limited,15990
+1194,DCMNVL,DCM Nouvelle Limited,15867
+1195,MANGALAM,Mangalam Drugs And Organics Limited,15852
+1196,ANDHRACEMT,Andhra Cements Limited,15850
+1197,ISMTLTD,ISMT Limited,15822
+1198,GREENPOWER,Orient Green Power Company Limited,15765
+1199,ORBTEXP,Orbit Exports Limited,15732
+1200,BIGBLOC,Bigbloc Construction Limited,15616
+1201,SHREYAS,Shreyas Shipping & Logistics Limited,15601
+1202,MANAKSTEEL,Manaksia Steels Limited,15499
+1203,DONEAR,Donear Industries Limited,15496
+1204,CAPTRUST,Capital Trust Limited,15470
+1205,BHARATWIRE,Bharat Wire Ropes Limited,15419
+1206,KOTHARIPET,Kothari Petrochemicals Limited,15329
+1207,3RDROCK,3rd Rock Multimedia Limited,15316
+1208,GOODLUCK,Goodluck India Limited,15276
+1209,TIL,TIL Limited,15226
+1210,WELINV,Welspun Investments and Commercials Limited,15164
+1211,BROOKS,Brooks Laboratories Limited,15143
+1212,STEL,Stel Holdings Limited,15143
+1213,NDL,Nandan Denim Limited,15111
+1214,PARACABLES,Paramount Communications Limited,15099
+1215,RUCHIRA,Ruchira Papers Limited,15048
+1216,AXISCADES,AXISCADES Technologies Limited,15028
+1217,ASPINWALL,Aspinwall and Company Limited,14917
+1218,SOUTHWEST,South West Pinnacle Exploration Limited,14900
+1219,UNITEDTEA,The United Nilgiri Tea Estates Company Limited,14895
+1220,SMSLIFE,SMS Lifesciences India Limited,14870
+1221,EMMBI,Emmbi Industries Limited,14824
+1222,RANASUG,Rana Sugars Limited,14819
+1223,APOLSINHOT,Apollo Sindoori Hotels Limited,14757
+1224,BSHSL,Bombay Super Hybrid Seeds Limited,14681
+1225,ARIHANTSUP,Arihant Superstructures Limited,14612
+1226,IRISDOREME,Iris Clothings Limited,14601
+1227,DPWIRES,D P Wires Limited,14552
+1228,REVATHI,Revathi Equipment Limited,14447
+1229,RKEC,RKEC Projects Limited,14442
+1230,PIONDIST,Pioneer Distilleries Limited,14412
+1231,MAGADSUGAR,Magadh Sugar & Energy Limited,14381
+1232,ELECTHERM,Electrotherm (India) Limited,14317
+1233,SHREYANIND,Shreyans Industries Limited,14012
+1234,MAWANASUG,Mawana Sugars Limited,13965
+1235,BHAGYANGR,Bhagyanagar India Limited,13902
+1236,HINDMOTORS,Hindustan Motors Limited,13876
+1237,NITCO,Nitco Limited,13869
+1238,SUNDRMBRAK,Sundaram Brake Linings Limited,13814
+1239,GINNIFILA,Ginni Filaments Limited,13812
+1240,VIDEOIND,Videocon Industries Limited,13713
+1241,OSWALAGRO,Oswal Agro Mills Limited,13692
+1242,CEBBCO,Commercial Engineers & Body Builders Co Limited,13691
+1243,BALLARPUR,Ballarpur Industries Limited,13581
+1244,SUPERHOUSE,Superhouse Limited,13517
+1245,MBECL,Mcnally Bharat Engineering Company Limited,13514
+1246,WEALTH,Wealth First Portfolio Managers Limited,13463
+1247,MARALOVER,Maral Overseas Limited,13428
+1248,VIVIMEDLAB,Vivimed Labs Limited,13349
+1249,EMKAYTOOLS,Emkay Taps and Cutting Tools Limited,13339
+1250,DENORA,De Nora India Limited,13333
+1251,ROML,Raj Oil Mills Limited,13325
+1252,ELGIRUBCO,Elgi Rubber Company Limited,13313
+1253,DANGEE,Dangee Dums Limited,13288
+1254,WEBELSOLAR,Websol Energy System Limited,13251
+1255,AAKASH,Aakash Exploration Services Limited,13163
+1256,KAKATCEM,Kakatiya Cement Sugar & Industries Limited,13146
+1257,UMANGDAIRY,Umang Dairies Limited,13081
+1258,PRECOT,Precot Limited,12972
+1259,CLEDUCATE,CL Educate Limited,12962
+1260,RPPINFRA,R.P.P. Infra Projects Limited,12916
+1261,JHS,JHS Svendgaard Laboratories Limited,12880
+1262,JOCIL,Jocil Limited,12767
+1263,PONNIERODE,Ponni Sugars (Erode) Limited,12700
+1264,SIL,Standard Industries Limited,12673
+1265,IITL,Industrial Investment Trust Limited,12605
+1266,AUTOIND,Autoline Industries Limited,12587
+1267,KILITCH,Kilitch Drugs (India) Limited,12434
+1268,INDTERRAIN,Indian Terrain Fashions Limited,12430
+1269,20MICRONS,20 Microns Limited,12403
+1270,JMTAUTOLTD,JMT Auto Limited,12344
+1271,SKMEGGPROD,SKM Egg Products Export (India) Limited,12309
+1272,SEYAIND,Seya Industries Limited,12288
+1273,MAHASTEEL,Mahamaya Steel Industries Limited,12223
+1274,PASHUPATI,Pashupati Cotspin Limited,12189
+1275,LOVABLE,Lovable Lingerie Limited,12055
+1276,JBFIND,JBF Industries Limited,12035
+1277,CREATIVE,Creative Peripherals and Distribution Limited,12035
+1278,RUCHINFRA,Ruchi Infrastructure Limited,12007
+1279,COMPINFO,Compuage Infocom Limited,11988
+1280,TPLPLASTEH,TPL Plastech Limited,11981
+1281,PENTAGOLD,Penta Gold Limited,11949
+1282,IVC,IL&FS Investment Managers Limited,11933
+1283,PODDARHOUS,Poddar Housing and Development Limited,11851
+1284,AHLADA,Ahlada Engineers Limited,11823
+1285,RAMASTEEL,Rama Steel Tubes Limited,11747
+1286,TOUCHWOOD,Touchwood Entertainment Limited,11652
+1287,RHFL,Reliance Home Finance Limited,11629
+1288,VIPCLOTHNG,VIP Clothing Limited,11605
+1289,ASIANHOTNR,Asian Hotels (North) Limited,11594
+1290,SHYAMCENT,Shyam Century Ferrous Limited,11553
+1291,BETA,Beta Drugs Limited,11537
+1292,MGEL,Mangalam Global Enterprise Limited,11489
+1293,MOLDTECH,Mold-Tek Technologies Limited,11455
+1294,TCIDEVELOP,TCI Developers Limited,11410
+1295,SHRENIK,Shrenik Limited,11322
+1296,DRCSYSTEMS,DRC Systems India Limited,11312
+1297,ALPHAGEO,Alphageo (India) Limited,11301
+1298,SAKUMA,Sakuma Exports Limited,11259
+1299,SAKHTISUG,Sakthi Sugars Limited,11172
+1300,NOIDATOLL,Noida Toll Bridge Company Limited,11172
+1301,NDRAUTO,Ndr Auto Components Limited,11140
+1302,SMARTLINK,Smartlink Holdings Limited,11132
+1303,HUBTOWN,Hubtown Limited,11129
+1304,BPL,BPL Limited,11121
+1305,FCSSOFT,FCS Software Solutions Limited,11112
+1306,EMAMIREAL,Emami Realty Limited,11092
+1307,DRSDILIP,DRS Dilip Roadlines Limited,11048
+1308,PRIMESECU,Prime Securities Limited,10948
+1309,UTTAMSTL,Uttam Galva Steels Limited,10883
+1310,RAJMET,Rajnandini Metal Limited,10875
+1311,DEEPENR,DEEP ENERGY RESOURCES LIMITED,10800
+1312,SILVERTUC,Silver Touch Technologies Limited,10779
+1313,KMSUGAR,K.M.Sugar Mills Limited,10718
+1314,BIOFILCHEM,Biofil Chemicals & Pharmaceuticals Limited,10716
+1315,MINDTECK,Mindteck (India) Limited,10684
+1316,GRPLTD,GRP Limited,10667
+1317,GPTINFRA,GPT Infraprojects Limited,10660
+1318,DUCON,Ducon Infratechnologies Limited,10601
+1319,PIONEEREMB,Pioneer Embroideries Limited,10557
+1320,ICEMAKE,Ice Make Refrigeration Limited,10461
+1321,MAANALU,Maan Aluminium Limited,10398
+1322,KSOLVES,Ksolves India Limited,10374
+1323,LSIL,Lloyds Steels Industries Limited,10331
+1324,PRAXIS,Praxis Home Retail Limited,10148
+1325,INNOVANA,Innovana Thinklabs Limited,10112
+1326,PAVNAIND,Pavna Industries Limited,10058
+1327,MURUDCERA,Murudeshwar Ceramics Limited,9995
+1328,ARIES,Aries Agro Limited,9994
+1329,IVP,IVP Limited,9991
+1330,KAPSTON,Kapston Facilities Management Limited,9840
+1331,ISFT,Intrasoft Technologies Limited,9804
+1332,SOFTTECH,Softtech Engineers Limited,9803
+1333,TEMBO,Tembo Global Industries Limited,9735
+1334,TTL,T T Limited,9696
+1335,RVHL,Ravinder Heights Limited,9647
+1336,SPLIL,SPL Industries Limited,9628
+1337,MOTOGENFIN,The Motor & General Finance Limited,9566
+1338,ARROWGREEN,Arrow Greentech Limited,9502
+1339,TRF,TRF Limited,9359
+1340,GROBTEA,The Grob Tea Company Limited,9338
+1341,MAHAPEXLTD,Maha Rashtra Apex Corporation Limited,9290
+1342,ANSALAPI,Ansal Properties & Infrastructure Limited,9287
+1343,PALREDTEC,Palred Technologies Limited,9222
+1344,BHAGYAPROP,Bhagyanagar Properties Limited,9215
+1345,RPPL,Rajshree Polypack Limited,9201
+1346,INDOTECH,Indo Tech Transformers Limited,9170
+1347,MACPOWER,Macpower CNC Machines Limited,9154
+1348,PANSARI,Pansari Developers Limited,9072
+1349,AMJLAND,Amj Land Holdings Limited,9041
+1350,LGBFORGE,LGB Forge Limited,8933
+1351,ADHUNIKIND,Adhunik Industries Limited,8908
+1352,GSS,GSS Infotech Limited,8858
+1353,SIGIND,Signet Industries Limited,8846
+1354,CINELINE,Cineline India Limited,8792
+1355,GILLANDERS,Gillanders Arbuthnot & Company Limited,8782
+1356,OPTOCIRCUI,Opto Circuits (India) Limited,8718
+1357,AKSHOPTFBR,Aksh Optifibre Limited,8704
+1358,CORALFINAC,Coral India Finance & Housing Limited,8645
+1359,OMAXAUTO,Omax Autos Limited,8634
+1360,XPROINDIA,Xpro India Limited,8630
+1361,SPECTRUM,Spectrum Electrical Industries Limited,8618
+1362,LOTUSEYE,Lotus Eye Hospital and Institute Limited,8526
+1363,JINDALPHOT,Jindal Photo Limited,8412
+1364,OSIAHYPER,Osia Hyper Retail Limited,8335
+1365,KERNEX,Kernex Microsystems (India) Limited,8306
+1366,GTL,GTL Limited,8258
+1367,KECL,Kirloskar Electric Company Limited,8202
+1368,REMSONSIND,Remsons Industries Limited,8176
+1369,GEEKAYWIRE,Geekay Wires Limited,8111
+1370,URAVI,Uravi T and Wedge Lamps Limited,8030
+1371,SVLL,Shree Vasu Logistics Limited,7950
+1372,INDIANCARD,Indian Card Clothing Company Limited,7925
+1373,ORIENTLTD,Orient Press Limited,7900
+1374,MANAKCOAT,Manaksia Coated Metals & Industries Limited,7733
+1375,ALMONDZ,Almondz Global Securities Limited,7714
+1376,AARVI,Aarvi Encon Limited,7643
+1377,INDOSOLAR,Indosolar Limited,7627
+1378,PAR,Par Drugs and Chemicals Limited,7617
+1379,BALPHARMA,Bal Pharma Limited,7611
+1380,WORTH,Worth Peripherals Limited,7576
+1381,ALPA,Alpa Laboratories Limited,7575
+1382,ACCURACY,Accuracy Shipping Limited,7536
+1383,WEIZMANIND,Weizmann Limited,7530
+1384,VISASTEEL,Visa Steel Limited,7526
+1385,HOVS,HOV Services Limited,7503
+1386,LYKALABS,Lyka Labs Limited,7488
+1387,SHIVAUM,Shiv Aum Steels Limited,7480
+1388,PREMIERPOL,Premier Polyfilm Limited,7458
+1389,SITINET,Siti Networks Limited,7412
+1390,NDGL,Naga Dhunseri Group Limited,7407
+1391,BYKE,The Byke Hospitality Ltd,7398
+1392,JMA,Jullundur Motor Agency (Delhi) Limited,7321
+1393,TEXMOPIPES,Texmo Pipes and Products Limited,7240
+1394,KALYANIFRG,Kalyani Forge Limited,7140
+1395,INTENTECH,Intense Technologies Limited,7120
+1396,AKG,Akg Exim Limited,7044
+1397,GOLDENTOBC,Golden Tobacco Limited,7026
+1398,COMPUSOFT,Compucom Software Limited,7003
+1399,KAMATHOTEL,Kamat Hotels (I) Limited,6946
+1400,IL&FSTRANS,IL&FS Transportation Networks Limited,6908
+1401,LCCINFOTEC,LCC Infotech Limited,6899
+1402,PANACHE,Panache Digilife Limited,6894
+1403,FMNL,Future Market Networks Limited,6877
+1404,DSSL,Dynacons Systems & Solutions Limited,6871
+1405,ABMINTLTD,ABM International Limited,6827
+1406,PKTEA,The Peria Karamalai Tea & Produce Company Limited,6808
+1407,BHARATGEAR,Bharat Gears Limited,6807
+1408,SUPREMEENG,Supreme Engineering Limited,6724
+1409,IZMO,IZMO Limited,6715
+1410,CCHHL,Country Club Hospitality & Holidays Limited,6702
+1411,TOKYOPLAST,Tokyo Plast International Limited,6656
+1412,A2ZINFRA,A2Z Infra Engineering Limited,6604
+1413,GAMMNINFRA,Gammon Infrastructure Projects Limited,6593
+1414,MAHICKRA,Mahickra Chemicals Limited,6530
+1415,KRITIKA,Kritika Wires Limited,6515
+1416,ARCHIDPLY,Archidply Industries Limited,6498
+1417,MUKTAARTS,Mukta Arts Limited,6346
+1418,CMICABLES,CMI Limited,6334
+1419,LIBAS,Libas Consumer Products Limited,6315
+1420,VIKASECO,Vikas EcoTech Limited,6298
+1421,AROGRANITE,Aro Granite Industries Limited,6281
+1422,AUSOMENT,Ausom Enterprise Limited,6274
+1423,TOTAL,Total Transport Systems Limited,6216
+1424,DEVIT,Dev Information Technology Limited,6183
+1425,RSSOFTWARE,R. S. Software (India) Limited,6170
+1426,BANKA,Banka BioLoo Limited,6143
+1427,SONAMCLOCK,Sonam Clock Limited,6120
+1428,ARVEE,Arvee Laboratories (India) Limited,6105
+1429,HISARMETAL,Hisar Metal Industries Limited,6089
+1430,SICAL,Sical Logistics Limited,6086
+1431,SRPL,Shree Ram Proteins Limited,6073
+1432,PNC,Pritish Nandy Communications Limited,6054
+1433,SHREERAMA,Shree Rama Multi-Tech Limited,5950
+1434,GANGESSECU,Ganges Securities Limited,5902
+1435,GOENKA,Goenka Diamond and Jewels Limited,5865
+1436,BDR,BDR Buildcon Limited,5824
+1437,SILGO,Silgo Retail Limited,5782
+1438,TARMAT,Tarmat Limited,5766
+1439,MCDHOLDING,McDowell Holdings Limited,5765
+1440,JAKHARIA,JAKHARIA FABRIC LIMITED,5750
+1441,AARON,Aaron Industries Limited,5745
+1442,SICAGEN,Sicagen India Limited,5718
+1443,PARIN,Parin Furniture Limited,5698
+1444,SUNDARAM,Sundaram Multi Pap Limited,5687
+1445,MANAKALUCO,Manaksia Aluminium Company Limited,5669
+1446,ROLLT,Rollatainers Limited,5628
+1447,E2E,E2E Networks Limited,5627
+1448,LOKESHMACH,Lokesh Machines Limited,5611
+1449,INDBANK,Indbank Merchant Banking Services Limited,5592
+1450,DAMODARIND,Damodar Industries Limited,5569
+1451,SURANAT&P,Surana Telecom and Power Limited,5566
+1452,INDOTHAI,Indo Thai Securities Limited,5550
+1453,IMAGICAA,Imagicaaworld Entertainment Limited,5548
+1454,SAGARDEEP,Sagardeep Alloys Limited,5527
+1455,SKIL,SKIL Infrastructure Limited,5523
+1456,MITCON,MITCON Consultancy & Engineering Services Limited,5503
+1457,WFL,Wonder Fibromats Limited,5478
+1458,AVG,AVG Logistics Limited,5476
+1459,SARVESHWAR,Sarveshwar Foods Limited,5466
+1460,PRAENG,Prajay Engineers Syndicate Limited,5455
+1461,GLOBALVECT,Global Vectra Helicorp Limited,5439
+1462,ROLTA,Rolta India Limited,5391
+1463,ATLANTA,Atlanta  Limited,5379
+1464,JYOTISTRUC,Jyoti Structures Limited,5367
+1465,MOKSH,Moksh Ornaments Limited,5339
+1466,TAINWALCHM,Tainwala Chemical and Plastic (I) Limited,5337
+1467,NILASPACES,Nila Spaces Limited,5318
+1468,STEELCITY,Steel City Securities Limited,5310
+1469,ASAL,Automotive Stampings and Assemblies Limited,5299
+1470,GODHA,Godha Cabcon & Insulation Limited,5169
+1471,MORARJEE,Morarjee Textiles Limited,5159
+1472,CORDSCABLE,Cords Cable Industries Limited,5106
+1473,WIPL,The Western India Plywoods Limited,5092
+1474,ALKALI,Alkali Metals Limited,5086
+1475,LAMBODHARA,Lambodhara Textiles Limited,5085
+1476,PRESSMN,Pressman Advertising Limited,5037
+1477,PUNJLLOYD,Punj Lloyd Limited,5034
+1478,CTE,Cambridge Technology Enterprises Limited,5016
+1479,FLEXITUFF,Flexituff Ventures International Limited,5014
+1480,RAJSREESUG,Rajshree Sugars & Chemicals Limited,4972
+1481,GLOBE,Globe Textiles (India) Limited,4937
+1482,BEDMUTHA,Bedmutha Industries Limited,4931
+1483,SALONA,Salona Cotspin Limited,4920
+1484,SURYALAXMI,Suryalakshmi Cotton Mills Limited,4918
+1485,UJAAS,Ujaas Energy Limited,4907
+1486,NITIRAJ,Nitiraj Engineers Limited,4900
+1487,HPIL,Hindprakash Industries Limited,4899
+1488,SUMEETINDS,Sumeet Industries Limited,4871
+1489,PALASHSECU,Palash Securities Limited,4776
+1490,TERASOFT,Tera Software Limited,4736
+1491,OSWALSEEDS,ShreeOswal Seeds And Chemicals Limited,4703
+1492,MRO-TEK,MRO-TEK Realty Limited,4652
+1493,MRO,M.R. Organisation Limited,4651
+1494,MTEDUCARE,MT Educare Limited,4623
+1495,NIBL,NRB Industrial Bearings Limited,4616
+1496,GANGAFORGE,Ganga Forging Limited,4556
+1497,DCM,DCM  Limited,4511
+1498,TARACHAND,Tara Chand Logistic Solutions Limited,4510
+1499,SURANASOL,Surana Solar Limited,4502
+1500,MALUPAPER,Malu Paper Mills Limited,4478
+1501,MHHL,Mohini Health & Hygiene Limited,4404
+1502,SHRADHA,Shradha Infraprojects Limited,4349
+1503,UNIVASTU,Univastu India Limited,4319
+1504,ARSSINFRA,ARSS Infrastructure Projects Limited,4286
+1505,MADHAV,Madhav Marbles and Granites Limited,4272
+1506,MEGASOFT,Megasoft Limited,4228
+1507,TIRUPATI,Shree Tirupati Balajee FIBC Limited,4184
+1508,ENERGYDEV,Energy Development Company Limited,4180
+1509,DGCONTENT,Digicontent Limited,4131
+1510,CNOVAPETRO,CIL Nova Petrochemicals Limited,4119
+1511,AARVEEDEN,Aarvee Denims & Exports Limited,4105
+1512,PATINTLOG,Patel Integrated Logistics Limited,4101
+1513,KANANIIND,Kanani Industries Limited,4056
+1514,BAGFILMS,B.A.G Films and Media Limited,4054
+1515,AIROLAM,Airo Lam limited,4051
+1516,SANWARIA,Sanwaria Consumer Limited,4049
+1517,NECCLTD,North Eastern Carrying Corporation Limited,3991
+1518,ANIKINDS,Anik Industries Limited,3969
+1519,ARTNIRMAN,Art Nirman Limited,3896
+1520,BVCL,Barak Valley Cements Limited,3878
+1521,SHAIVAL,Shaival Reality Limited,3825
+1522,VARDMNPOLY,Vardhman Polytex Limited,3823
+1523,SAMBHAAV,Sambhaav Media Limited,3822
+1524,IL&FSENGG,IL&FS Engineering and Construction Company Limited,3803
+1525,ZENITHEXPO,Zenith Exports Limited,3777
+1526,KEYFINSERV,Keynote Financial Services Limited,3772
+1527,MDL,Marvel Decor Limited,3749
+1528,KHFM,Khfm Hospitality And Facility Management Services Limited,3729
+1529,SERVOTECH,Servotech Power Systems Limited,3699
+1530,GLOBAL,Global Education Limited,3695
+1531,MADHUCON,Madhucon Projects Limited,3690
+1532,SHIVAMILLS,Shiva Mills Limited,3686
+1533,BANG,Bang Overseas Limited,3661
+1534,AAATECH,Aaa Technologies Limited,3634
+1535,SOMICONVEY,Somi Conveyor Beltings Limited,3622
+1536,SPMLINFRA,SPML Infra Limited,3610
+1537,MANUGRAPH,Manugraph India Limited,3589
+1538,KRIDHANINF,Kridhan Infra Limited,3554
+1539,TREJHARA,TREJHARA SOLUTIONS LIMITED,3509
+1540,VAISHALI,Vaishali Pharma Limited,3438
+1541,DELTAMAGNT,Delta Manufacturing Limited,3418
+1542,CINEVISTA,Cinevista Limited,3417
+1543,ARCHIES,Archies Limited,3412
+1544,ASCOM,Ascom Leasing & Investments Limited,3409
+1545,CENTEXT,Century Extrusions Limited,3400
+1546,LGHL,Laxmi Goldorna House Limited,3392
+1547,BSL,BSL Limited,3376
+1548,INDOWIND,Indowind Energy Limited,3365
+1549,BLBLIMITED,BLB Limited,3357
+1550,AMDIND,AMD Industries Limited,3354
+1551,SANGINITA,Sanginita Chemicals Limited,3324
+1552,MKPL,M K Proteins Limited,3316
+1553,AISL,ANI Integrated Services Limited,3308
+1554,BANARBEADS,Banaras Beads Limited,3298
+1555,BHANDARI,Bhandari Hosiery Exports Limited,3297
+1556,ONEPOINT,One Point One Solutions Limited,3260
+1557,VINNY,Vinny Overseas Limited,3218
+1558,BCONCEPTS,Brand Concepts Limited,3191
+1559,ANSALHSG,Ansal Housing Limited,3088
+1560,TREEHOUSE,Tree House Education & Accessories Limited,3068
+1561,AJOONI,Ajooni Biotech Limited,3042
+1562,GAL,Gyscoal Alloys Limited,3007
+1563,DBSTOCKBRO,DB (International) Stock Brokers Limited,2993
+1564,VASWANI,Vaswani Industries Limited,2985
+1565,LATTEYS,Latteys Industries Limited,2974
+1566,EDUCOMP,Educomp Solutions Limited,2939
+1567,SIMBHALS,Simbhaoli Sugars Limited,2931
+1568,SUMIT,Sumit Woods Limited,2921
+1569,UNITEDPOLY,United Polyfab Gujarat Limited,2902
+1570,TIRUPATIFL,Tirupati Forge Limited,2901
+1571,GIRIRAJ,Giriraj Civil Developers Limited,2878
+1572,SANGHVIFOR,Sanghvi Forging and Engineering Limited,2867
+1573,DCI,DC Infotech and Communication Limited,2856
+1574,SIKKO,Sikko Industries Limited,2828
+1575,PIGL,Power & Instrumentation (Gujarat) Limited,2818
+1576,AURDIS,Aurangabad Distillery Limited,2792
+1577,BEARDSELL,Beardsell Limited,2754
+1578,TMRVL,The Mandhana Retail Ventures Limited,2683
+1579,CELEBRITY,Celebrity Fashions Limited,2675
+1580,VCL,Vaxtex Cotfab Limited,2647
+1581,SALSTEEL,S.A.L. Steel Limited,2634
+1582,UCL,Ushanti Colour Chem Limited,2621
+1583,LPDC,Landmark Property Development Company Limited,2616
+1584,SHANTI,Shanti Overseas (India) Limited,2610
+1585,LAGNAM,Lagnam Spintex Limited,2597
+1586,KGL,Karuturi Global Limited,2549
+1587,NANDANI,Nandani Creation Limited,2534
+1588,LFIC,Lakshmi Finance & Industrial Corporation Limited,2523
+1589,ORTINLAB,Ortin Laboratories Limited,2521
+1590,GUJRAFFIA,Gujarat Raffia Industries Limited,2505
+1591,HINDCON,Hindcon Chemicals Limited,2493
+1592,OILCOUNTUB,Oil Country Tubular Limited,2480
+1593,LEXUS,Lexus Granito (India) Limited,2476
+1594,PRITI,Priti International Limited,2469
+1595,RELIABLE,Reliable Data Services Limited,2451
+1596,KEERTI,Keerti Knowledge and Skills Limited,2450
+1597,FOCUS,Focus Lighting and Fixtures Limited,2433
+1598,CUBEXTUB,Cubex Tubings Limited,2427
+1599,MERCATOR,Mercator Limited,2420
+1600,HECPROJECT,HEC Infra Projects Limited,2398
+1601,OMKARCHEM,Omkar Speciality Chemicals Limited,2397
+1602,BRIGHT,Bright Solar Limited,2377
+1603,AGROPHOS,Agro Phos India Limited,2372
+1604,PEARLPOLY,Pearl Polymers Limited,2365
+1605,GOLDSTAR,Goldstar Power Limited,2359
+1606,NEXTMEDIA,Next Mediaworks Limited,2341
+1607,AMBANIORG,Ambani Organics Limited,2336
+1608,FELIX,Felix Industries Limited,2330
+1609,HUSYSLTD,Husys Consulting Limited,2252
+1610,SUPERSPIN,Super Spinning Mills Limited,2228
+1611,EXCEL,Excel Realty N Infra Limited,2210
+1612,SGL,STL Global Limited,2200
+1613,METALFORGE,Metalyst Forgings Limited,2178
+1614,DHARSUGAR,Dharani Sugars & Chemicals Limited,2158
+1615,MANGTIMBER,Mangalam Timber Products Limited,2144
+1616,BALKRISHNA,Balkrishna Paper Mills Limited,2126
+1617,TIMESGTY,Times Guaranty Limited,2122
+1618,KSHITIJPOL,Kshitij Polyline Limited,2119
+1619,UNIINFO,Uniinfo Telecom Services Limited,2091
+1620,PROLIFE,Prolife Industries Limited,2072
+1621,ZODIAC,Zodiac Energy Limited,2063
+1622,VIVIDHA,Visagar Polytex Limited,2049
+1623,ROHITFERRO,Rohit Ferro-Tech Limited,2048
+1624,JITFINFRA,JITF Infralogistics Limited,2043
+1625,DIAPOWER,Diamond Power Infra Ltd,2023
+1626,SONAHISONA,Sona Hi Sona Jewellers (Gujarat) Limited,2014
+1627,MMNL,MIG Media Neurons Limited,2000
+1628,MUKANDENGG,Mukand Engineers Limited,1993
+1629,RMCL,Radha Madhav Corporation Limited,1986
+1630,WILLAMAGOR,Williamson Magor & Company Limited,1978
+1631,COX&KINGS,Cox & Kings Limited,1942
+1632,MILTON,Milton Industries Limited,1937
+1633,NAGREEKEXP,Nagreeka Exports Limited,1912
+1634,SILLYMONKS,Silly Monks Entertainment Limited,1910
+1635,SOMATEX,Soma Textiles & Industries Limited,1883
+1636,TIJARIA,Tijaria Polypipes Limited,1875
+1637,SEZAL,Sezal Glass Limited,1845
+1638,MAGNUM,Magnum Ventures Limited,1842
+1639,AGRITECH,Agri-Tech (India) Limited,1832
+1640,JETFREIGHT,Jet Freight Logistics Limited,1815
+1641,SIGMA,Sigma Solve Limited,1809
+1642,BURNPUR,Burnpur Cement Limited,1809
+1643,AVSL,AVSL Industries Limited,1791
+1644,RKDL,Ravi Kumar Distilleries Limited,1776
+1645,LAXMICOT,Laxmi Cotspin Limited,1775
+1646,MARSHALL,Marshall Machines Limited,1768
+1647,ORIENTALTL,Oriental Trimex Limited,1754
+1648,KHANDSE,Khandwala Securities Limited,1725
+1649,SOLEX,Solex Energy Limited,1724
+1650,WSI,W S Industries (I) Limited,1720
+1651,ATALREAL,Atal Realtech Limited,1707
+1652,SHAHALLOYS,Shah Alloys Limited,1693
+1653,KKVAPOW,KKV Agro Powers Limited,1683
+1654,ASLIND,ASL Industries Limited,1667
+1655,GOLDTECH,Goldstone Technologies Limited,1625
+1656,NATNLSTEEL,National Steel And Agro Industries Limited,1624
+1657,GICL,Globe International Carriers Limited,1623
+1658,VSCL,Vadivarhe Speciality Chemicals Limited,1611
+1659,NITINFIRE,Nitin Fire Protection Industries Limited,1608
+1660,VERA,Vera Synthetic Limited,1594
+1661,ADROITINFO,Adroit Infotech Limited,1589
+1662,UWCSL,Ultra Wiring Connectivity System Limited,1587
+1663,KARMAENG,Karma Energy Limited,1585
+1664,SEPOWER,S.E. Power Limited,1584
+1665,SURANI,Surani Steel Tubes Limited,1582
+1666,ADL,Archidply Decor Limited,1564
+1667,COUNCODOS,Country Condo's Limited,1552
+1668,SRIRAM,Shri Ram Switchgears Limited,1552
+1669,3PLAND,3P Land Holdings Limited,1548
+1670,INNOVATIVE,Innovative Tyres and Tubes Limited,1529
+1671,INFOMEDIA,Infomedia Press Limited,1506
+1672,ARIHANT,Arihant Foundations & Housing Limited,1479
+1673,PATSPINLTD,Patspin India Limited,1469
+1674,21STCENMGM,21st Century Management Services Limited,1465
+1675,MIC,MIC Electronics Limited,1432
+1676,CADSYS,Cadsys (India) Limited,1425
+1677,ANKITMETAL,Ankit Metal & Power Limited,1411
+1678,PRAKASHSTL,Prakash Steelage Limited,1400
+1679,RMDRIP,R M Drip and Sprinklers Systems Limited,1395
+1680,WEWIN,WE WIN LIMITED,1382
+1681,SPYL,Shekhawati Poly-Yarn Limited,1379
+1682,NARMADA,Narmada Agrobase Limited,1375
+1683,NKIND,NK Industries Limited,1370
+1684,MOHITIND,Mohit Industries Limited,1324
+1685,GAYAHWS,Gayatri Highways Limited,1318
+1686,SSINFRA,S.S. Infrastructure Development Consultants Limited,1318
+1687,CALSOFT,California Software Company Limited,1306
+1688,LYPSAGEMS,Lypsa Gems & Jewellery Limited,1297
+1689,ZODJRDMKJ,Zodiac JRD- MKJ Limited,1281
+1690,S&SPOWER,S&S Power Switchgears Limited,1252
+1691,TGBHOTELS,TGB Banquets And Hotels Limited,1245
+1692,AVROIND,AVRO INDIA LIMITED,1245
+1693,CYBERMEDIA,Cyber Media (India) Limited,1190
+1694,HBSL,HB Stockholdings Limited,1185
+1695,EASTSILK,Eastern Silk Industries Limited,1184
+1696,SHUBHLAXMI,Shubhlaxmi Jewel Art Limited,1179
+1697,MITTAL,Mittal Life Style Limited,1175
+1698,INDLMETER,IMP Powers Limited,1162
+1699,PARTYCRUS,Party Cruisers Limited,1156
+1700,HILTON,Hilton Metal Forging Limited,1151
+1701,CASTEXTECH,Castex Technologies Limited,1134
+1702,EMCO,Emco Limited,1087
+1703,AHIMSA,Ahimsa Industries Limited,1084
+1704,HAVISHA,Sri Havisha Hospitality and Infrastructure Limited,1075
+1705,CANDC,C & C Constructions Limited,1069
+1706,BTML,Bodhi Tree Multimedia Limited,1066
+1707,TNTELE,Tamilnadu Telecommunication Limited,1053
+1708,PERFECT,Perfect Infraengineers Limited,1047
+1709,MOHOTAIND,Mohota Industries Limited,1037
+1710,UNITY,Unity Infraprojects Limited,1027
+1711,SETUINFRA,Setubandhan Infrastructure Limited,1005
+1712,MASKINVEST,Mask Investments Limited,995
+1713,ACEINTEG,Ace Integrated Solutions Limited,983
+1714,SECL,Salasar Exteriors and Contour Limited,976
+1715,ZENITHSTL,Zenith Steel Pipes & Industries Limited,925
+1716,SYNCOM,Syncom Healthcare Limited,920
+1717,CROWN,Crown Lifters Limited,914
+1718,DALALSTCOM,DSJ Communications Limited,909
+1719,UMESLTD,Usha Martin Education & Solutions Limited,898
+1720,ABINFRA,A B Infrabuild Limited,881
+1721,IMPEXFERRO,Impex Ferro Tech Limited,879
+1722,TVVISION,TV Vision Limited,874
+1723,VICEROY,Viceroy Hotels Limited,869
+1724,PAEL,PAE Limited,865
+1725,ABNINT,A B N Intercorp Limited,839
+1726,EASUNREYRL,Easun Reyrolle Limited,831
+1727,BSELINFRA,BSEL Infrastructure Realty Limited,826
+1728,DNAMEDIA,Diligent Media Corporation Limited,824
+1729,SKSTEXTILE,SKS Textiles Limited,823
+1730,BARTRONICS,Bartronics India Limited,817
+1731,SANCO,Sanco Industries Limited,795
+1732,ONELIFECAP,Onelife Capital Advisors Limited,795
+1733,PREMIER,Premier Limited,790
+1734,NAGREEKCAP,Nagreeka Capital & Infrastructure Limited,782
+1735,CMMIPL,CMM Infraprojects Limited,776
+1736,JETKNIT,Jet Knitwears Limited,776
+1737,MPTODAY,Madhya Pradesh Today Media Limited,756
+1738,EUROTEXIND,Eurotex Industries and Exports Limited,717
+1739,MINDPOOL,Mindpool Technologies Limited,708
+1740,THIRUSUGAR,Thiru Arooran Sugars Limited,702
+1741,RAJRAYON,Raj Rayon Industries Limited,693
+1742,ALPSINDUS,Alps Industries Limited,684
+1743,NORBTEAEXP,Norben Tea & Exports Limited,682
+1744,GLFL,Gujarat Lease Financing Limited,678
+1745,SPENTEX,Spentex Industries Limited,673
+1746,NIRAJISPAT,Niraj Ispat Industries Limited,672
+1747,DSML,Debock Sales And Marketing Limited,662
+1748,SECURCRED,SecUR Credentials Limited,645
+1749,AMJUMBO,A and M Jumbo Bags Limited,638
+1750,SUBCAPCITY,International Constructions Limited,634
+1751,ACCORD,Accord Synergy Limited,625
+1752,OMFURN,Omfurn India Limited,623
+1753,GTNTEX,GTN Textiles Limited,617
+1754,GFSTEELS,Grand Foundry Limited,609
+1755,CONTI,Continental Seeds and Chemicals Limited,600
+1756,TCIFINANCE,TCI Finance Limited,599
+1757,KALYANI,Kalyani Commercials Limited,597
+1758,TFL,Transwarranty Finance Limited,587
+1759,CREATIVEYE,Creative Eye Limited,582
+1760,VIJIFIN,Viji Finance Limited,578
+1761,KAUSHALYA,Kaushalya Infrastructure Development Corporation Limited,571
+1762,BKMINDST,Bkm Industries Limited,557
+1763,JALAN,Jalan Transolutions (India) Limited,538
+1764,PULZ,Pulz Electronics Limited,532
+1765,DRL,Dhanuka Realty Limited,528
+1766,TANTIACONS,Tantia Constructions Limited,489
+1767,TRANSWIND,Transwind Infrastructures Limited,482
+1768,SONISOYA,Soni Soya Products Limited,479
+1769,BHALCHANDR,Bhalchandram Clothing Limited,476
+1770,GRETEX,Gretex Industries Limited,455
+1771,TECHIN,Techindia Nirman Limited,451
+1772,RADAAN,Radaan Mediaworks India Limited,433
+1773,SMVD,SMVD Poly Pack Limited,420
+1774,LAKPRE,Lakshmi Precision Screws Limited,399
+1775,EUROCERA,Euro Ceramics Limited,388
+1776,NTL,Neueon Towers Limited,368
+1777,RAMSARUP,Ramsarup Industries Limited,351
+1778,MANAV,Manav Infra Projects Limited,349
+1779,ARENTERP,Rajdarshan Industries Limited,343
+1780,POWERFUL,Powerful Technologies Limited,336
+1781,VASA,Vasa Retail and Overseas Ltd,327
+1782,JIKIND,JIK Industries Limited,308
+1783,THOMASCOTT,Thomas Scott (India) Limited,276
+1784,MELSTAR,Melstar Information Technologies Limited,271
+1785,ORTEL,Ortel Communications Limited,264
+1786,BOHRA,Bohra Industries Limited,251
+1787,GBGLOBAL,GB Global Limited,242
+1788,DCMFINSERV,DCM Financial Services Limited,235
+1789,GISOLUTION,GI Engineering Solutions Limited,224
+1790,JAINSTUDIO,Jain Studios Limited,182
+1791,HOTELRUGBY,Hotel Rugby Limited,150
+1792,SABEVENTS,Sab Events & Governance Now Media Limited,136
+1793,BLUECHIP,Blue Chip India Limited,83
