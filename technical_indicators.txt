@@ -1,0 +1,102 @@
+Conversion Line (tenkan sen)= 
+2
+9-PH+9-PL
+​
+ 
+Base Line (kijun sen)= 
+2
+26-PH + 26-PL
+​
+ 
+Leading Span A (senkou span A)= 
+2
+CL + Base Line
+​
+ 
+Leading Span B (senkou span B)= 
+2
+52-PH + 52-PL
+​
+ 
+Lagging Span (chikou span)=Close plotted 26 periods
+Lagging Span (chikou span)=in the past
+where:
+PH=Period high
+PL=Period low
+CL=Conversion line
+​
+
+ then red
+
+ichmoku cloud:
+
+if last 5 periods ltp > Leading Span A and Leading Span A  > Leading Span B (green) and 1.01*leadingspan A > ltp > Leading Span A then trigger alert buy
+
+if last 5 periods ltp < Leading Span A and  Leading Span B > Leading Span A (red) and 1.01*leadingspan A < ltp < Leading Span A then trigger alert sell
+
+if conversion line(9 periods) above base line (9 periods) and next conversion line(5 periods) below base line (5 periods) and cloud should be red then trigger buy
+
+if conversion line(9 periods) below base line (9 periods) and next conversion line(5 periods) above base line (5 periods) and cloud should be green then 
+trigger sell
+
+parabolic
+
+RPSAR = Rising PSAR
+AF = Acceleration Factor, it starts at 0.02 and
+increases by 0.02, up to a maximum of 0.2, each
+time the extreme point makes a new low (falling
+SAR) or high(rising SAR)
+FPSAR = Falling PSAR
+EP = Extreme Point, the lowest low in the current
+downtrend(falling SAR)or the highest high in the
+current uptrend(rising SAR)
+​
+RPSAR=Prior PSAR +
+[Prior AF(Prior EP-Prior PSAR)]
+FPSAR=Prior PSAR −
+[Prior AF(Prior PSAR-Prior EP)]
+
+
+MACD
+
+Fibonacci
+
+
+
+changes:
+
+check whether a stock is in uptrend or not check the chronological order
+
+in uptrend, all time low=1 , all time high=0
+down trend, all time low=0 , all time high=1
+
+MACD:
+
+macd (12 period) crosses above signal(9 period) and check in the last 2 periods 
+
+RPSAR:
+cross over and should be consistent over 3 periods
+
+
+
+------------------------------changes to be done--------------------------
+
+SAR Signal:
+
+Check the last two candles and if there is a change in the signal then trigger alerts with latest signal
+
+MACD Signal:
+
+Check the last two candles and if there is a change in the signal then check last 5 periods other than the 2 periods if it is consistent with the 2nd period signal then trigger the latest signal
+
+Ichmoku
+
+
+ONGC 112 fib support 151 fib resistance --done
+
+issue with ichmoku signal
+
+ichmoku show the buy and sell signals differently --done
+
+
+

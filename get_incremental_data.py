@@ -112,7 +112,8 @@ if __name__ == '__main__':
      #data.set_index('date',inplace=True)
      data.index=pd.to_datetime(data.index)
      data.sort_index(ascending=False,inplace=True)
-     data.index.drop_duplicates(keep='last')
+     #data.index.drop_duplicates(keep='last')
+     data.drop_duplicates(inplace=True)
      dim_scrips.loc[dim_scrips.Symbol==scrip,'last_refresh_date']=datetime.strftime(data.index.max(),'%Y-%m-%d %H:%M')
      dim_scrips.to_csv(dim_scrip_file,index=False)
     

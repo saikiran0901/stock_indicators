@@ -4,7 +4,7 @@ import talib
 
 #data=pd.read_csv("data/RELIANCE.csv")
 
-indicators_csv=pd.DataFrame(columns=['exchange','scrip','scrip_name','all_time_high','all_time_low','ltp','uptrend','Fib Support','Fib Resistance','macd_signal','psar_signal','ichmoku_signal','analysis_last_candle'])
+indicators_csv=pd.DataFrame(columns=['exchange','scrip','scrip_name','all_time_high','all_time_low','ltp','uptrend','Fib Support','Fib Resistance','macd_signal','MACD_alert','psar_signal','PSAR_alert','ichmoku_signal_1','ICHMOKU_alert_1','ichmoku_signal_2','ICHMOKU_alert_2','analysis_last_candle'])
 dim_scrips=pd.read_csv('dim_scrips.csv')
 indicators_raw_data=pd.DataFrame(columns=['exchange','scrip','scrip_name','open','high','low','close','volume','lead_span_A','lead_span_B','lagging_span'])
 i=0
@@ -20,10 +20,14 @@ try:
     data=pd.read_parquet(f"data/{scrip}.parquet")
     #data.index=pd.to_datetime(data['date'])
     
-    data.sort_index(ascending=True,inplace=True)
-    date_index_without_tz=data.index.tz_convert(None)
+    
+    #date_index_without_tz=data.index.tz_convert(None)
+    date_index_without_tz=data.index.tz_localize(None)
     data.index=pd.to_datetime(date_index_without_tz)
+    data.index=pd.to_datetime(data.index)
+    data.sort_index(ascending=True,inplace=True)
     data.set_index(data.index,inplace=True)
+    data.drop_duplicates(inplace=True)
     #print(data.tail())
     data['scrip']=scrip
     data['scrip_name']=scrip_name
@@ -44,10 +48,12 @@ try:
     fib_ratios= [0,0.236, 0.382, 0.5 , 0.618, 0.786,1]
     if uptrend:
      fib_levels=[scrip_max-(diff*ratio) for ratio in fib_ratios] #up trend
+     fib_support=[supp for supp in fib_levels if supp < scrip_ltp][0]
     else:
      fib_levels=[scrip_min+(diff*ratio) for ratio in fib_ratios] #down trend  
+     fib_support=[supp for supp in fib_levels if supp < scrip_ltp][-1]
     #print(fib_levels)
-    fib_support=[supp for supp in fib_levels if supp < scrip_ltp][0]
+    
     fib_resistance=[res for res in fib_levels if res > scrip_ltp][0]
     #print("Support",fib_support,"Res",fib_resistance)
     
@@ -113,27 +119,50 @@ try:
         
     
     data.loc[(((data.close>data.lead_span_A) & (data.lead_span_A>data.lead_span_B) & 
-             (1.01*data.lead_span_A>data.close) & (data.close>data.lead_span_A)) | 
-             ((data.conversion_line_slow<data.base_line_slow) & 
+             (1.01*data.lead_span_A>data.close) & (data.close>data.lead_span_A))),'ICHMOKU_signal_1']='BUY'
+    
+    data.loc[(((data.conversion_line_slow<data.base_line_slow) & 
              (data.conversion_line_fast>data.base_line_fast) &
-             (data.close>data.lead_span_A) & (data.lead_span_A>data.lead_span_B))),'ICHMOKU_signal']='BUY'
+             (data.close>data.lead_span_A) & (data.lead_span_A>data.lead_span_B))),'ICHMOKU_signal_2']='BUY'
 
-    data.loc[(((data.close<data.lead_span_A) & (data.lead_span_B>data.lead_span_A) & \
-             (1.01*data.lead_span_A<data.close) & (data.close<data.lead_span_A)) | \
-            ((data.conversion_line_slow>data.base_line_slow) & \
-             (data.conversion_line_fast<data.base_line_fast) \
-             & (data.close<data.lead_span_A) & (data.lead_span_B>data.lead_span_A))),'ICHMOKU_signal']='SELL'
+    data.loc[(((data.close<data.lead_span_A) & (data.lead_span_B>data.lead_span_A) &
+             (1.01*data.lead_span_A<data.close) & (data.close<data.lead_span_A))),'ICHMOKU_signal_1']='SELL'
+    
+    data.loc[(((data.conversion_line_slow>data.base_line_slow) & 
+             (data.conversion_line_fast<data.base_line_fast) 
+             & (data.close<data.lead_span_A) & (data.lead_span_B>data.lead_span_A))),'ICHMOKU_signal_2']='SELL'
              
     
-
-    sar_signal=data.loc[data.index.max()]['SAR_signal']
+    #shift alerts
+    
+    data['SAR_signal_1']=data['SAR_signal'].shift(1)
+    data['MACD_signal_1']=data['MACD_signal'].shift(1)
+    data['ICHMOKU_signal_1_1']=data['ICHMOKU_signal_1'].shift(1)
+    data['ICHMOKU_signal_2_1']=data['ICHMOKU_signal_2'].shift(1)
+    
+    data.loc[(data.SAR_signal_1!=data.SAR_signal) & (pd.notnull(data.SAR_signal)),'SAR_alert']='TRUE'
+    data.loc[(data.MACD_signal_1!=data.MACD_signal) & (pd.notnull(data.MACD_signal)),'MACD_alert']='TRUE'
+    data.loc[(data.ICHMOKU_signal_1_1!=data.ICHMOKU_signal_1) & (pd.notnull(data.ICHMOKU_signal_1)),'ICHMOKU_alert_1']='TRUE'
+    data.loc[(data.ICHMOKU_signal_2_1!=data.ICHMOKU_signal_2) & (pd.notnull(data.ICHMOKU_signal_2)),'ICHMOKU_alert_2']='TRUE'
+    
+    sar_signal=data.loc[data.index.max()]['SAR_signal']    
     macd_signal=data.loc[data.index.max()]['MACD_signal']         
-    ichmoku_signal=data.loc[data.index.max()]['ICHMOKU_signal']
-    indicators_csv.loc[i]="NSE",scrip,scrip_name,scrip_max,scrip_min,scrip_ltp,uptrend,fib_support,fib_resistance,macd_signal,sar_signal,ichmoku_signal,max_index
+    ichmoku_signal_1=data.loc[data.index.max()]['ICHMOKU_signal_1']
+    ichmoku_signal_2=data.loc[data.index.max()]['ICHMOKU_signal_2']
+    
+    SAR_alert=data.loc[data.index.max()]['SAR_alert']
+    MACD_alert=data.loc[data.index.max()]['MACD_alert']    
+    ICHMOKU_alert_1=data.loc[data.index.max()]['ICHMOKU_alert_1']
+    ICHMOKU_alert_2=data.loc[data.index.max()]['ICHMOKU_alert_2']
+    
+    indicators_csv.loc[i]="NSE",scrip,scrip_name,scrip_max,scrip_min,scrip_ltp,uptrend,fib_support,fib_resistance,macd_signal,MACD_alert,sar_signal,SAR_alert,ichmoku_signal_1,ICHMOKU_alert_1,ichmoku_signal_2,ICHMOKU_alert_2,max_index
+    #alerts_csv.loc[i]="NSE",scrip,scrip_name,scrip_max,scrip_min,scrip_ltp,uptrend,fib_support,fib_resistance,macd_signal,sar_signal,ichmoku_signal_1,ichmoku_signal_2,max_index
     #data.to_csv("ichmoku_cloud.csv")
-    indicators_raw_data=pd.concat([indicators_raw_data,data])
+    
+    indicators_raw_data=pd.concat([indicators_raw_data,data['2021']],sort=True)
     print(f"Analysis Completed {round((i+1)/total_scrips*100,2)} % ",end="\r")
     #i=i+1
+    
     
 except Exception as e:
     print("Exception",e)
